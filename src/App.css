@@ -17,6 +17,16 @@
     font-family: "Beaufort-for-lol";
 }
 
+@font-face {
+  font-family: "antsValley";
+ src: url("/fonts/ants_valley/AntsValley.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+.antsValley{
+    font-family: "antsValley";
+}
+
 @keyframes cartoon-tilt {
   0% { transform: rotate(0deg) scale(1); }
   25% { transform: rotate(10deg) }

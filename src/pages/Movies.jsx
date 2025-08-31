@@ -1,17 +1,17 @@
 import { useState } from "react";
-import ShowCard from "../comp/ShowsCard";
+import ShowsCard from "../comp/ShowsCard"; // could be renamed MovieCard
 import { useAppData } from "../context/AppDataContext";
 const fontStyle = {
   fontFamily: "'antsValley', sans-serif"
 };
-const Shows = () => {
+const Movies = () => {
   const { data, loading } = useAppData();
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(10);
 
-  if (loading) return <p className="text-center mt-4">Loading shows...</p>;
-  if (!data?.shows || data.shows.length === 0)
-    return <p className="text-center text-gray-400">No shows available.</p>;
+  if (loading) return <p className="text-center mt-4">Loading movies...</p>;
+  if (!data?.movies || data.movies.length === 0)
+    return <p className="text-center text-gray-400">No movies available.</p>;
 
   const fuzzyMatch = (str, query) => {
     if (!str || !query) return false;
@@ -19,10 +19,9 @@ const Shows = () => {
     query = query.toLowerCase();
     return [...query].every((char) => str.includes(char));
   };
-
-  const filteredShows = searchTerm
-    ? data.shows.filter((show) => show.title && fuzzyMatch(show.title, searchTerm))
-    : data.shows;
+  const filteredMovies = searchTerm
+    ? data.movies.filter((movie) => movie.title && fuzzyMatch(movie.title, searchTerm))
+    : data.movies;
 
   const handleLoadMore = () => {
     setVisibleCount((prev) => prev + 10);
@@ -30,14 +29,14 @@ const Shows = () => {
 
   return (
     <div className="pb-10 px-4 md:px-10">
-      <h2 className="text-center text-[30px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
-        Shows
-      </h2>
+     <h2 className="text-center text-[30px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
+      Movies
+    </h2>
       <div className="flex flex-col items-center ">
 
         <input
           type="text"
-          placeholder="Search shows..."
+          placeholder="Search movies..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
           className="mb-6 px-6 py-3 border-4 border-black bg-white text-black font-mono text-md
@@ -50,15 +49,17 @@ const Shows = () => {
             textShadow: '1px 1px 0px rgba(255,255,255,0.5)'
           }}
         />
+
         <div className="flex flex-wrap gap-6 justify-center">
-          {filteredShows.slice(0, visibleCount).map((show, index) => (
-            <ShowCard key={index} show={show} />
+          {filteredMovies.slice(0, visibleCount).map((movie, index) => (
+            <ShowsCard key={index} show={movie} />
           ))}
         </div>
-        {visibleCount < filteredShows.length && (
+
+        {visibleCount < filteredMovies.length && (
           <button
             onClick={handleLoadMore}
-            className="mt-6 px-6 py-3 bg-black hover:bg-[#fff] text-white font-semibold rounded-lg shadow-md transition duration-300 cursor-pointer hover:text-black"
+            className="mt-6 px-6 py-3 bg-black hover:bg-gray-700 text-white font-semibold rounded-lg shadow-md transition duration-300 cursor-pointer"
           >
             Load More
           </button>
@@ -67,4 +68,4 @@ const Shows = () => {
   );
 };
 
-export default Shows;
+export default Movies;

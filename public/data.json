@@ -1,11 +1,86 @@
 {
-  "about": {
-    "name": "Sabina",
-    "role": "Student & Full Stack Developer",
-    "bio": "I'm a passionate learner exploring full stack development while still being a student. I love combining my creativity with technology to build meaningful projects. When I'm not coding, you can probably find me watching anime, gaming, or journaling.",
-    "interests": "",
-    "hobbies": ""
-  },
+  "links": [
+    {
+      "name": "pixels",
+      "url": "https://pixels.crd.co/",
+      "description": "cute pixels in many colours!"
+    },
+    {
+      "name": "decors",
+      "url": "https://rentry.co/decor",
+      "description": "best site for all decors! "
+    },
+    {
+      "name": "dividers",
+      "url": "https://dividers.crd.co/",
+      "description": "many different resources for front website development!"
+    },
+    {
+      "name": "resources",
+      "url": "https://lazer-bunny.neocities.org/Resources",
+      "description": "Many useful links for web development and resources."
+    },
+    {
+      "name": "text generator",
+      "url": "https://www.glitter-graphics.com/myspace/text_generator.php",
+      "description": "Flashy Text Generator! "
+    },
+    {
+      "name": "imgs/content",
+      "url": "http://whimsical.heartette.net/link"
+    },
+    {
+      "name": "gifs/icons",
+      "url": "https://blinkies.neocities.org/geoblinkies"
+    },
+    {
+      "name": "graphics/icons",
+      "url": "https://controlcoreangel.neocities.org/graphics"
+    },
+    {
+      "name": "pixels/dividers/other",
+      "url": "https://yokai.crd.co/"
+    },
+    {
+      "name": "pixelizer",
+      "url": "https://megabyte-games.itch.io/agave-art-sweet#pixelizer"
+    },
+    {
+      "name": "dividers",
+      "url": "https://rentry.co/borderbuttons"
+    },
+    {
+      "name": "decor pixels",
+      "url": "https://rentry.co/decorpixel"
+    },
+    {
+      "name": "zombpixel",
+      "url": "https://rentry.co/zombpixel"
+    },
+    {
+      "name": "jespixel",
+      "url": "https://rentry.co/jessespixels"
+    },
+    {
+      "name": "cute pixels",
+      "url": "https://rentry.co/ulzzangpink"
+    },
+    {
+      "name": "blinkie maker",
+      "url": "https://blinkies.cafe/"
+    },
+    {
+      "name": "content-to-use",
+      "url": "https://rentry.co/cpd455f9"
+    },
+    {
+      "name": "sketchy links",
+      "url": "https://beedge.neocities.org/"
+    }
+  ],
+  "list": [
+  
+  ],
   "animes": [
     {
       "title": "Closer",
@@ -29,38 +104,6 @@
       "status": "on-hold",
       "comment": "",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/88c8cf7ac56b4c176cb9b768cd0cbe3e636b11ac293464e0d7e242912fca0d0c.jpg"
-    },
-    {
-      "title": "",
-      "year": 2007,
-      "genres": [],
-      "status": "",
-      "comment": "",
-      "image": ""
-    },
-    {
-      "title": "",
-      "year": 2007,
-      "genres": [],
-      "status": "",
-      "comment": "",
-      "image": ""
-    },
-    {
-      "title": "",
-      "year": 2007,
-      "genres": [],
-      "status": "",
-      "comment": "",
-      "image": ""
-    },
-    {
-      "title": "",
-      "year": 2007,
-      "genres": [],
-      "status": "",
-      "comment": "",
-      "image": ""
     },
     {
       "title": "",
@@ -281,10 +324,14 @@
       "comment": "",
       "image": "https://m.media-amazon.com/images/M/MV5BMDcyZmUyZGYtMGFiYi00OGVlLTk4MzktYTM4MDJmNTU1ZDE5XkEyXkFqcGc@._V1_.jpg"
     },
-     {
+    {
       "title": "Miraculous",
       "year": 2012,
-      "genres": ["Slice of Life", "School life", "Animated Show"],
+      "genres": [
+        "Slice of Life",
+        "School life",
+        "Animated Show"
+      ],
       "status": "watched",
       "comment": "",
       "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/miraculous_tales_of_ladybug_and.png"
@@ -616,88 +663,6 @@
       ]
     }
   ],
-  "usefullSites": [
-    {
-      "title": "",
-      "url": ""
-    }
-  ],
-  "links": [
-    {
-      "name": "pixels",
-      "url": "https://pixels.crd.co/",
-      "description": "cute pixels in many colours!"
-    },
-    {
-      "name": "dividers",
-      "url": "https://dividers.crd.co/",
-      "description": "many different resources for front website development!"
-    },
-    {
-      "name": "resources",
-      "url": "https://lazer-bunny.neocities.org/Resources"
-    },
-    {
-      "name": "text generator",
-      "url": "https://www.glitter-graphics.com/myspace/text_generator.php"
-    },
-    {
-      "name": "imgs/content",
-      "url": "http://whimsical.heartette.net/link"
-    },
-    {
-      "name": "gifs/icons",
-      "url": "https://blinkies.neocities.org/geoblinkies"
-    },
-    {
-      "name": "graphics/icons",
-      "url": "https://controlcoreangel.neocities.org/graphics"
-    },
-    {
-      "name": "pixels/dividers/other",
-      "url": "https://yokai.crd.co/"
-    },
-    {
-      "name": "pixelizer",
-      "url": "https://megabyte-games.itch.io/agave-art-sweet#pixelizer"
-    },
-    {
-      "name": "dividers",
-      "url": "https://rentry.co/borderbuttons"
-    },
-    {
-      "name": "decor pixels",
-      "url": "https://rentry.co/decorpixel"
-    },
-    {
-      "name": "zombpixel",
-      "url": "https://rentry.co/zombpixel"
-    },
-    {
-      "name": "jespixel",
-      "url": "https://rentry.co/jessespixels"
-    },
-    {
-      "name": "cute pixels",
-      "url": "https://rentry.co/ulzzangpink"
-    },
-    {
-      "name": "blinkie maker",
-      "url": "https://blinkies.cafe/"
-    },
-    {
-      "name": "content-to-use",
-      "url": "https://rentry.co/cpd455f9"
-    },
-    {
-      "name": "decors",
-      "url": "https://rentry.co/decor"
-    },
-    {
-      "name": "sketchy links",
-      "url": "https://beedge.neocities.org/"
-    }
-  ],
   "books": [
     {
       "title": "A Brief History of Time",
@@ -719,18 +684,6 @@
       "link": "https://open.spotify.com/playlist/your-playlist-id",
       "description": "Relaxed beats and cozy vibes for late-night coding or journaling."
     }
-  ],
-  "subjects_topics": [
-    "Philosophy",
-    "Science",
-    "Psychology"
-  ],
-  "hobbies": [
-    "Watching proplay streams and scrims",
-    "Journaling",
-    "Learning Japanese",
-    "Exploring new coding frameworks",
-    "Collecting aesthetic wallpapers"
   ],
   "blog_posts": [
     {
@@ -874,8 +827,8 @@
       "author": "Gainax, Sadamoto yoshiyuki",
       "year": "2014",
       "genres": [
-        "BL",
-        "Romance"
+        "Psychological",
+        "Absurdism"
       ],
       "status": "reading",
       "comment": "",

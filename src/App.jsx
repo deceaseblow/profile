@@ -14,7 +14,8 @@ import DividerTop from "./comp/dividerTop";
 import stars from "./assets/pixels/stars.gif"
 import Links from "./pages/Links";
 import Shows from "./pages/Shows";
-import Movies from "./comp/Movies";
+import Movies from "./pages/Movies";
+import DividerBot from "./comp/dividerBot";
 export default function App() {
   return (
     <Router>
@@ -26,13 +27,15 @@ export default function App() {
             <div>
               <DividerTop />
               <div className="flex items-center justify-center py-3">
-                <Pfp />
+                <NavLink
+                  to="/">
+                  <Pfp />
+                </NavLink>
               </div>
               <nav className="flex flex-col">
                 <div>
                   {/* <img src={stars} alt="" className="hidden md:block" />*/}
-                  {/* Mobile: Grid layout, Desktop: Vertical stack */}
-                  <div className="flex gap-1 md:flex md:flex-col md:gap-0 md:p-0 justify-center">
+                  <div className="flex flex-wrap gap-1 md:flex md:flex-col md:gap-0 md:p-0 justify-center">
                     <NavLink
                       to="/"
                       className={({ isActive }) =>
@@ -41,6 +44,24 @@ export default function App() {
                       }
                     >
                       Home
+                    </NavLink>
+                    <NavLink
+                      to="/blogs"
+                      className={({ isActive }) =>
+                        `px-2 py-2 md:px-4 md:py-1 transition text-center text-sm md:text-base ${isActive ? "bg-[#fff] text-[#000]" : ""
+                        }`
+                      }
+                    >
+                      Blog
+                    </NavLink>
+                    <NavLink
+                      to="/links"
+                      className={({ isActive }) =>
+                        `px-2 py-2 md:px-4 md:py-1 transition text-center text-sm md:text-base ${isActive ? "bg-[#fff] text-[#000]" : ""
+                        }`
+                      }
+                    >
+                      Links
                     </NavLink>
                     <NavLink
                       to="/mangas"
@@ -69,15 +90,7 @@ export default function App() {
                     >
                       Games
                     </NavLink>
-                    <NavLink
-                      to="/blogs"
-                      className={({ isActive }) =>
-                        `px-2 py-2 md:px-4 md:py-1 transition text-center text-sm md:text-base ${isActive ? "bg-[#fff] text-[#000]" : ""
-                        }`
-                      }
-                    >
-                      Blog
-                    </NavLink>
+
                     {/* 
                     <NavLink
                       to="/gallery"
@@ -89,15 +102,7 @@ export default function App() {
                       Gallery
                     </NavLink>
                     */}
-                    <NavLink
-                      to="/links"
-                      className={({ isActive }) =>
-                        `px-2 py-2 md:px-4 md:py-1 transition text-center text-sm md:text-base ${isActive ? "bg-[#fff] text-[#000]" : ""
-                        }`
-                      }
-                    >
-                      Links
-                    </NavLink>
+
                     <NavLink
                       to="/shows"
                       className={({ isActive }) =>
@@ -107,7 +112,7 @@ export default function App() {
                     >
                       Shows
                     </NavLink>
-                     <NavLink
+                    <NavLink
                       to="/movies"
                       className={({ isActive }) =>
                         `px-2 py-2 md:px-4 md:py-1 transition text-center text-sm md:text-base ${isActive ? "bg-[#fff] text-[#000]" : ""
@@ -121,8 +126,12 @@ export default function App() {
                 </div>
               </nav>
             </div>
-            <div className="hidden md:block text-center text-sm border-t border-[#fff]">
-              <Divider />
+            <div className="hidden md:block">
+              {/* <Divider />*/}
+
+              <div>
+                <DividerBot />
+              </div>
             </div>
           </div>
           <div className="flex-1 overflow-y-auto pt-6">

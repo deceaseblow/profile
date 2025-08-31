@@ -1,6 +1,9 @@
 import React from "react";
 import { useAppData } from "../context/AppDataContext";
 
+const fontStyle = {
+  fontFamily: "'antsValley', sans-serif"
+};
 function Games() {
     const { data, loading } = useAppData();
 
@@ -12,11 +15,8 @@ function Games() {
         <div className="px-10 mx-auto space-y-10">
             {data.games.map((gameCategory) => (
                 <div key={gameCategory.name}>
-                    <h2 className="text-3xl font-bold mb-6 capitalize text-black font-mono tracking-wider border-b-4 border-black pb-2"
-                        style={{
-                            textShadow: '2px 2px 0px white, 4px 4px 0px black',
-                            imageRendering: 'pixelated'
-                        }}>
+                   <h2 className="text-center text-[30px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
+                    style={fontStyle}>
                         {gameCategory.name} Games
                     </h2>
                     <div className="flex flex-wrap gap-5 items-center md:gap-10 md:items-start justify-center">

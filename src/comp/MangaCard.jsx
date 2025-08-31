@@ -18,7 +18,7 @@ export default function MangaCard({ manga }) {
   }, [manga.link]);
 
   return (
-    <div className="bg-white shadow-md overflow-hidden transition-transform w-64 duration-300">
+    <div className="bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] overflow-hidden rounded-lg transition-transform duration-300 w-64 hover:scale-[1.02]">
       <a
         href={manga.link}
         target="_blank"
@@ -28,40 +28,33 @@ export default function MangaCard({ manga }) {
         <img
           src={manga.image && manga.image.trim() !== "" ? manga.image : fallbackImage}
           alt={manga.title}
-          className="w-full h-80 object-cover bg-gray-100"
+          className="w-full h-80 object-cover bg-gray-900 filter grayscale hover:grayscale-0 transition duration-300"
         />
       </a>
 
-      <div className="p-4 flex flex-col gap-1">
-        <h2 className="text-lg font-semibold">{manga.title}</h2>
-
-        <div className="flex items-center gap-2 text-gray-500 text-sm">
-          <p>By {manga.author || "Unknown"}</p> <span>•</span>
-          <p>{manga.year || "N/A"}</p>
-        </div>
-
-        <div className="flex flex-wrap gap-1">
+      <div className="p-4 flex flex-col gap-2 font-mono text-white">
+        <h2 className="text-lg font-bold uppercase tracking-wide">{manga.title}</h2>
+        <div className="flex flex-wrap gap-2 mt-1">
           {manga.genres && manga.genres.length > 0 ? (
             manga.genres.map((genre, index) => (
               <span
                 key={index}
-                className="bg-[#000] text-[#fff] text-xs px-2 py-1 rounded-full"
+                className="border border-gray-500 text-gray-300 text-[11px] px-2 py-0.5 rounded-full tracking-wide uppercase"
               >
                 {genre}
               </span>
             ))
           ) : (
-            <span className="bg-gray-200 text-gray-600 text-xs px-2 py-1 rounded-full">
+            <span className="border border-gray-600 text-gray-400 text-xs px-2 py-1 rounded-full">
               Unknown
             </span>
           )}
         </div>
-
-        <p className="mt-3 text-xs text-gray-600">
+        <p className="mt-3 text-[11px] text-gray-400 uppercase">
           Status:{" "}
           <span
             className={`font-semibold ${
-              manga.status === "completed" ? "text-green-700" : "text-red-600"
+              manga.status === "completed" ? "text-[#fff]" : "text-red-400"
             }`}
           >
             {manga.status || "Unknown"}
