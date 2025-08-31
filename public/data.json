@@ -1,0 +1,2091 @@
+{
+  "about": {
+    "name": "Sabina",
+    "role": "Student & Full Stack Developer",
+    "bio": "I'm a passionate learner exploring full stack development while still being a student. I love combining my creativity with technology to build meaningful projects. When I'm not coding, you can probably find me watching anime, gaming, or journaling.",
+    "interests": "",
+    "hobbies": ""
+  },
+  "animes": [
+    {
+      "title": "Closer",
+      "year": 2004,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "comment": ""
+    }
+  ],
+  "movies": [
+    {
+      "title": "The last 10 years",
+      "year": 2022,
+      "genres": [
+        "Tragedy",
+        "Romance"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/88c8cf7ac56b4c176cb9b768cd0cbe3e636b11ac293464e0d7e242912fca0d0c.jpg"
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    }
+  ],
+  "shows": [
+    {
+      "title": "Mtv Daria",
+      "year": 1997,
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Satire",
+        "Slice of Life"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BZGI5OGJjMjMtOTE4OS00OTlmLTljODQtM2RiMDBjZTQ5ZWZiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "The Big Bang Theory",
+      "year": 2007,
+      "genres": [
+        "Sitcom"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185554_b_v8_bk.jpg"
+    },
+    {
+      "title": "MTV Downtown",
+      "year": 2000,
+      "genres": [
+        "Animated Sitcom"
+      ],
+      "status": "wacthed",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmYzYWU0Y2ItMzhkZS00NDY5LWJmYTQtZTg2MGJjYmRmOTkyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Normal People",
+      "year": 2019,
+      "genres": [
+        "Romance"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWUzNjQ2YmYtNWI3Yi00NzNmLWJjYWYtMDFiM2RjYjNjZWZmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "The Modern Family",
+      "year": 2007,
+      "genres": [
+        "Sitcom"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://www.peacocktv.com/dam/growth/assets/Library/ModernFamily/modern-family-description-image.jpg"
+    },
+    {
+      "title": "Suspicious partner",
+      "year": 2017,
+      "genres": [
+        "Legal",
+        "Crime",
+        "Romance",
+        "Comedy"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FqWOzam1f7znVtHaama3R6I8jdTJ.jpg"
+    },
+    {
+      "title": "Coffee Prince",
+      "year": 2007,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://images.justwatch.com/poster/169164195/s718/coffee-prince-2007.jpg"
+    },
+    {
+      "title": "Our Blues",
+      "year": 2022,
+      "genres": [
+        "Melodrama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDUwY2ZkMGYtMTJlMi00MTg0LWJiNGItYzI5YmE3Y2UxYzBiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Guardian: The Lonely and Great God",
+      "year": 2016,
+      "genres": [
+        "Supernatural",
+        "Romance",
+        "Drama"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSLrKhsGPnyW7-142OAF8VthJ4dAIYiQVE3QkkRh01WIuZ0hmvVkZnI_GSCId0KB7aKePIaIw"
+    },
+    {
+      "title": "Healer",
+      "year": 2007,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Romance"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTg5Y2VjYzAtOGE4OC00MWU1LWI1YzktZWY1ZGEwMDVjODY1XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Kill me, Heal me",
+      "year": 2015,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNmI3YmVlOWUtZWE1OS00YmE0LWJkOTQtZDAzY2I2MzM0ZmJkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "W",
+      "year": 2016,
+      "genres": [
+        "Romance",
+        "Drama",
+        "Supernatural"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BOWUxOGM1OTAtYzI4Ni00YzVlLTk4ZmYtNTkzMjJlMGVjOTZiXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "My Lover from Another Star",
+      "year": 2013,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjM4MzhmYTAtY2EwYi00ZTI1LWI0OTYtZmNkNzFiYWM0NzU2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Hwarang",
+      "year": 2016,
+      "genres": [
+        "Supernatural",
+        "Historical",
+        "Drama",
+        "Romance"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTcwM2NjZjQtN2EzZC00ZWNkLWI4M2EtY2UyYzYyMjEwNzcyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Strong Girl Bong-soon",
+      "year": 2017,
+      "genres": [
+        "Supernatural",
+        "Drama",
+        "Romance"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/28/StrongWomanDoBong-soon_%28Main_poster%29.jpg"
+    },
+    {
+      "title": "The K2",
+      "year": 2016,
+      "genres": [
+        "Romance",
+        "Mature",
+        "Mystery"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BODc4NDA2MTYtMzk1Ni00OTM1LWFhOTItMDA2OWM4NTZkYzVmXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Flower boy next door",
+      "year": 2015,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://i.mydramalist.com/Z82l1f.jpg"
+    },
+    {
+      "title": "Weightlifting Fairy Kim Bok-Joo",
+      "year": 2016,
+      "genres": [
+        "School life",
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDcyZmUyZGYtMGFiYi00OGVlLTk4MzktYTM4MDJmNTU1ZDE5XkEyXkFqcGc@._V1_.jpg"
+    },
+     {
+      "title": "Miraculous",
+      "year": 2012,
+      "genres": ["Slice of Life", "School life", "Animated Show"],
+      "status": "watched",
+      "comment": "",
+      "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/miraculous_tales_of_ladybug_and.png"
+    },
+    {
+      "title": "Welcome to Waikiki!",
+      "year": 2018,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://i0.wp.com/hallyuism.com/wp-content/uploads/2022/11/img_3138.jpg?resize=683%2C1024&ssl=1"
+    },
+    {
+      "title": "Family guy",
+      "year": 1999,
+      "genres": [
+        "Comedy"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTZlMGQ1YjEtMzVlNC00ZmMxLTk0MzgtZjdkYTU1NmUxNTQ0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "You",
+      "year": 2018,
+      "genres": [
+        "Psychological Thriller"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://image.tmdb.org/t/p/original/2OhMuKrnsS3vv2ltIv1djG4fyhW.jpg"
+    },
+    {
+      "title": "Alice in Borderland",
+      "year": 2020,
+      "genres": [
+        "Science Fiction",
+        "Thriller",
+        "Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/75/Alice_in_Borderland_poster.jpg"
+    },
+    {
+      "title": "A Business Proposal",
+      "year": 2022,
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BYWM2NTM4MTktNDFiNi00NTI3LThiZTgtZmJiZTQ2NzdhNDE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Barbie : Life in the Dream House",
+      "year": 2012,
+      "genres": [
+        "Drama",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BMGE3NzMwOTAtZDUwZi00YWUxLWJiMGQtZjQ3ZTJiODczZWZhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "To All the Boys I've Loved Before",
+      "year": 2018,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://liusviews.wordpress.com/wp-content/uploads/2018/08/to-all-the-boys-ive-loved-before-netflix-129946.jpg?w=584"
+    },
+    {
+      "title": "Q-Force",
+      "year": 2021,
+      "genres": [
+        "Comedy"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20209081_b_v13_aa.jpg"
+    },
+    {
+      "title": "Prince",
+      "year": 2021,
+      "genres": [
+        "Comedy"
+      ],
+      "status": "wacthed",
+      "comment": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8d/The_Prince_2021_poster.jpg/250px-The_Prince_2021_poster.jpg"
+    },
+    {
+      "title": "Captain Fall",
+      "year": 2023,
+      "genres": [
+        "Absurdism",
+        "Dark Comedy",
+        "Crime Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BYzVhYjEzMzItNjgzNC00ZWE0LWEzNDMtYzM0MDA2MDc3YWM1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Brooklyn Nine-Nine",
+      "year": 2013,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzBiODQxZTUtNjc0MC00Yzc1LThmYTMtN2YwYTU3NjgxMmI4XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Fleabag",
+      "year": 2016,
+      "genres": [
+        "Dark Comedy",
+        "Slice of Life",
+        "Drama"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p13139616_b_v13_ab.jpg"
+    },
+    {
+      "title": "How I met your my mother",
+      "year": 2005,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRCZWGdVQkmHcnKlTymheGuwprrE-ryinGMDfNGca1NmVE7zouO_4VD-N9VH8iNgtjVp4ZLQ"
+    },
+    {
+      "title": "The Office",
+      "year": 2005,
+      "genres": [
+        "Sitcom",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://www.peacocktv.com/dam/growth/assets/Library/TheOffice/office-vertical-art.jpg"
+    },
+    {
+      "title": "Mr. Plankton",
+      "year": 2024,
+      "genres": [
+        "Romance",
+        "Melodrama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://asianwiki.com/images/4/47/Mr._Plankton-p1.jpeg"
+    },
+    {
+      "title": "The End of the F...ing World",
+      "year": 2017,
+      "genres": [
+        "Dark Comedy",
+        "Tragicomedy"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNTVkZTI3MmMtMDY1Yi00NjJhLTgyYTctNWE1OTJkNmZiZjdlXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Sex Education",
+      "year": 2019,
+      "genres": [
+        "Romance",
+        "Drama",
+        "School life"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://snworksceo.imgix.net/ttd/7d9c76bf-ffb5-492a-8657-01b5e536eff4.sized-1000x1000.jpeg?w=1000&dpr=2"
+    },
+    {
+      "title": "Pretty Little Liars",
+      "year": 2010,
+      "genres": [
+        "Mystery",
+        "Thriller"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/1/10/Pretty_Little_Liars_Season_1_DVD_Cover_Art.png"
+    },
+    {
+      "title": "Baby",
+      "year": 2018,
+      "genres": [
+        "Drama",
+        "School life"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p16061280_b_v13_ab.jpg"
+    },
+    {
+      "title": "Skam France",
+      "year": 2018,
+      "genres": [
+        "Teen Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FamCi4TsdN8FItViHj9OvCpCqdEn.jpg"
+    },
+    {
+      "title": "Gaus Electronics",
+      "year": 2007,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYXwXh0dSzEAPcgBiwfvYPLiBFNSLTeJunfxu7yimmZK4mdy600jcAsTf110fTV7kE-NLi"
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    },
+    {
+      "title": "",
+      "year": 2007,
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
+    }
+  ],
+  "games": [
+    {
+      "name": "league",
+      "links": [
+        {
+          "name": "Loldle",
+          "url": "https://loldle.org/",
+          "description": "Classic LoL guess game."
+        },
+        {
+          "name": "LoL Geo Guesser",
+          "url": "https://loldodgegame.com/lol-guessr/",
+          "description": "LoL geography guessing game. "
+        },
+        {
+          "name": "Bonedle",
+          "url": "https://bonedle.rito.lol/",
+          "description": "Guess LoL Champs by their bones moving.  "
+        },
+        {
+          "name": "LoLdoku",
+          "url": "https://loldoku.com/",
+          "description": "LoL sudoku XD"
+        }
+      ]
+    }
+  ],
+  "usefullSites": [
+    {
+      "title": "",
+      "url": ""
+    }
+  ],
+  "links": [
+    {
+      "name": "pixels",
+      "url": "https://pixels.crd.co/",
+      "description": "cute pixels in many colours!"
+    },
+    {
+      "name": "dividers",
+      "url": "https://dividers.crd.co/",
+      "description": "many different resources for front website development!"
+    },
+    {
+      "name": "resources",
+      "url": "https://lazer-bunny.neocities.org/Resources"
+    },
+    {
+      "name": "text generator",
+      "url": "https://www.glitter-graphics.com/myspace/text_generator.php"
+    },
+    {
+      "name": "imgs/content",
+      "url": "http://whimsical.heartette.net/link"
+    },
+    {
+      "name": "gifs/icons",
+      "url": "https://blinkies.neocities.org/geoblinkies"
+    },
+    {
+      "name": "graphics/icons",
+      "url": "https://controlcoreangel.neocities.org/graphics"
+    },
+    {
+      "name": "pixels/dividers/other",
+      "url": "https://yokai.crd.co/"
+    },
+    {
+      "name": "pixelizer",
+      "url": "https://megabyte-games.itch.io/agave-art-sweet#pixelizer"
+    },
+    {
+      "name": "dividers",
+      "url": "https://rentry.co/borderbuttons"
+    },
+    {
+      "name": "decor pixels",
+      "url": "https://rentry.co/decorpixel"
+    },
+    {
+      "name": "zombpixel",
+      "url": "https://rentry.co/zombpixel"
+    },
+    {
+      "name": "jespixel",
+      "url": "https://rentry.co/jessespixels"
+    },
+    {
+      "name": "cute pixels",
+      "url": "https://rentry.co/ulzzangpink"
+    },
+    {
+      "name": "blinkie maker",
+      "url": "https://blinkies.cafe/"
+    },
+    {
+      "name": "content-to-use",
+      "url": "https://rentry.co/cpd455f9"
+    },
+    {
+      "name": "decors",
+      "url": "https://rentry.co/decor"
+    },
+    {
+      "name": "sketchy links",
+      "url": "https://beedge.neocities.org/"
+    }
+  ],
+  "books": [
+    {
+      "title": "A Brief History of Time",
+      "type": "book",
+      "author": "Stephen Hawking",
+      "year": 1988,
+      "genres": [
+        "Science",
+        "Non-fiction"
+      ],
+      "status": "reading",
+      "comment": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1365394306i/17393385.jpg"
+    }
+  ],
+  "music_playlists": [
+    {
+      "title": "Chill Vibes",
+      "platform": "Spotify",
+      "link": "https://open.spotify.com/playlist/your-playlist-id",
+      "description": "Relaxed beats and cozy vibes for late-night coding or journaling."
+    }
+  ],
+  "subjects_topics": [
+    "Philosophy",
+    "Science",
+    "Psychology"
+  ],
+  "hobbies": [
+    "Watching proplay streams and scrims",
+    "Journaling",
+    "Learning Japanese",
+    "Exploring new coding frameworks",
+    "Collecting aesthetic wallpapers"
+  ],
+  "blog_posts": [
+    {
+      "id": 1,
+      "title": "Reflections on Learning Japanese",
+      "date": "2025-08-23",
+      "tags": [
+        "language-learning",
+        "japanese"
+      ],
+      "content": "Hiragana, katakana, kanji — it’s challenging but rewarding. My goal is to watch anime without subtitles one day!"
+    }
+  ],
+  "manga": [
+    {
+      "title": "Lost in the Cloud",
+      "author": "Various",
+      "year": 2020,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://cdn2.penguin.com.au/covers/original/9798893739459.jpg",
+      "link": "https://xbato.com/series/98582/lost-in-the-cloud-official"
+    },
+    {
+      "title": "A Sign of Affection",
+      "author": "Morishita suu",
+      "year": "2019",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/1f5/1f56be1057ac2cd204865d7769f2ccfbe4ce1829_600_921_127730.webp",
+      "link": "https://bato.si/title/77397-a-sign-of-affection-official"
+    },
+    {
+      "title": "Choking on Love",
+      "author": "Iwashita keiko",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "School life",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n28.mbimg.org/media/mbim/575/575ea5dd3fabdfa463c23975e248b89533f8f1cc_600_921_142218.webp",
+      "link": "https://bato.to/series/187747/choking-on-love-official-kmanga"
+    },
+    {
+      "title": "Umibe no Étranger",
+      "author": "Kanna Kii",
+      "year": "2013",
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n21.mbzcp.org/thumb/W600/ampi/612/612085005e37c24034ea9ff1110bd4abe6e43b81_1403_2000_782810.jpeg",
+      "link": "https://xbato.com/series/93624/umibe-no-etranger-official"
+    },
+    {
+      "title": "Harukaze no Étranger",
+      "author": "Kanna Kii",
+      "year": "2014",
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://cdn.kobo.com/book-images/2888ae32-7288-4644-9f71-9f3737326bfd/1200/1200/False/seaside-stranger-vol-3-harukaze-no-etranger.jpg",
+      "link": "https://xbato.com/series/20918/harukaze-no-etranger"
+    },
+    {
+      "title": "The summer Hikaru died",
+      "author": "MOKUMOKU Ren",
+      "year": 2021,
+      "genres": [
+        "Mystery",
+        "Horror"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n14.mbqgu.org/media/mbim/51f/51fd24f2dac70db9783edb80b99b20740576891b_600_1066_151222.webp",
+      "link": "https://summerhikarudied.com/"
+    },
+    {
+      "title": "Love for Sale",
+      "author": "Dal Hyeonji",
+      "year": 2021,
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1647972780i/60673290.jpg",
+      "link": "https://xbato.com/series/172983/love-for-sale-official"
+    },
+    {
+      "title": "Parasite in Love",
+      "author": "Miaki Sugaru",
+      "year": 2020,
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/I/71mMjYMbBOL._UF1000,1000_QL80_.jpg",
+      "link": "https://xbato.com/series/78552/parasite-in-love"
+    },
+    {
+      "title": "Sadistic Beauty, SideStory",
+      "author": "Lee Geumsan",
+      "year": "2021",
+      "genres": [
+        "BL",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1713331847i/211616521.jpg",
+      "link": "https://batotoo.com/series/107840/sadistic-beauty-bl-sidestory"
+    },
+    {
+      "title": "Neon Genesis Evangelion",
+      "author": "Gainax, Sadamoto yoshiyuki",
+      "year": "2014",
+      "genres": [
+        "BL",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://static.insales-cdn.com/images/products/1/541/1011507741/9137gjCQBRL._SL1500_.jpg",
+      "link": "https://batotoo.com/series/39008/shinseiki-evangelion"
+    },
+    {
+      "title": "Welcome back, Alice",
+      "author": "Shuzo Oshimi",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Psychological"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://k05.mbdny.org/thumb/W600/ampi/73d/73d28c7ac32f272055b0d443b1468d14fbcbfdd3_1600_2182_1338493.jpeg",
+      "link": "https://xbato.com/title/100294-welcome-back-alice-official"
+    },
+    {
+      "title": "The guy she was interested in wasn't a guy at all",
+      "author": "Sumiko Arai",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n15.mbwnp.org/thumb/W600/ampi/484/4849ea1ed3131d4cada19309a565fa3dd2291ca5_1725_2475_887802.jpeg",
+      "link": "https://xbato.com/series/170139/the-guy-she-was-interested-in-wasn-t-a-guy-at-all-official"
+    },
+    {
+      "title": "Given",
+      "author": "Natsuki Kizu",
+      "year": "2013",
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n22.mbdny.org/thumb/W600/ampi/26b/26b6cc4b85e6e600eebcc9c5c9e2ad3ad4d90e61_700_1000_252531.jpeg",
+      "link": "https://xbato.com/series/18393/given"
+    },
+    {
+      "title": "Semantic Error",
+      "author": "J. Soori",
+      "year": "2018",
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n05.mbcej.org/thumb/W600/ampi/fb4/fb44fa188b05f1be6b358cd0110913e434253b79_480_690_67097.jpeg",
+      "link": "https://xbato.com/series/83804/semantic-error"
+    },
+    {
+      "title": "Beloved",
+      "author": "Jaeliu",
+      "year": "2021",
+      "genres": [
+        "Romance",
+        "GL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://i.redd.it/i5mpnnyx9iv31.jpg",
+      "link": "https://xbato.com/series/6083/beloved-jaeliu"
+    },
+    {
+      "title": "Kagen no Tsuki",
+      "author": "Ai Yazawa",
+      "year": "2000",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Supernatural"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1372013810i/18112334.jpg",
+      "link": "https://xbato.com/series/26638/kagen-no-tsuki"
+    },
+    {
+      "title": "Horimiya",
+      "author": "Hero, Daisuke Hagiwara",
+      "year": "2011",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n19.mbwnp.org/thumb/W600/ampi/f83/f83103e53cf61cb904d27de7b12837346e5de377_900_1350_340323.jpeg",
+      "link": "https://xbato.com/series/82074/horimiya-official"
+    },
+    {
+      "title": "Paradise Kiss",
+      "author": "Ai Yazawa",
+      "year": "1999",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n17.mbznp.org/thumb/W600/ampi/dc4/dc49386579f07786242c9acb0cb158fe9352fece_1427_2048_346107.jpg",
+      "link": "https://xbato.com/series/82180/paradise-kiss-official"
+    },
+    {
+      "title": "Butai ni Sake!",
+      "author": "Harusono Shou",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k00.mbmyj.org/thumb/W600/ampi/d75/d7527139c4c3c3efbe90d0b0b9333fe9ffec7378_600_848_90845.jpeg",
+      "link": "https://xbato.com/series/102742/butai-ni-sake"
+    },
+    {
+      "title": "Uruwashi no yoi no tsuki",
+      "author": "Mika Yamamori",
+      "year": "2020",
+      "genres": [
+        "Shoujo",
+        "Romance",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k01.mbwnp.org/media/mbim/c52/c529864d2b3f62de82541103707d4d30e87c9911_600_854_88126.webp",
+      "link": "https://xbato.com/series/90229/uruwashi-no-yoi-no-tsuki-official"
+    },
+    {
+      "title": "Veil",
+      "author": "Kotteri",
+      "year": "2019",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/0d4b349e-b7a2-4d63-9ce0-f864e790c4a2/d007f9f5-c959-4c03-9c8e-4f1bb19f5ecd.jpg.512.jpg",
+      "link": "https://mangadex.org/title/0d4b349e-b7a2-4d63-9ce0-f864e790c4a2/veil"
+    },
+    {
+      "title": "Chainsaw Man",
+      "author": "Tatsuki Fujimoto",
+      "year": "2018",
+      "genres": [
+        "Horror",
+        "Action",
+        "Supernatural",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n21.mbxma.org/thumb/W600/ampi/ff8/ff8d8430a0cf56d8df1445fc0c09a06ca6930a91_318_500_86683.jpeg",
+      "link": "https://xbato.com/series/84131/chainsaw-man-official"
+    },
+    {
+      "title": "These Days Love",
+      "author": "Yeongmo",
+      "year": "2023",
+      "genres": [
+        "College Life",
+        "Romance",
+        "Drama",
+        "Slice of Life",
+        "Oneshot"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n00.mbcej.org/thumb/W600/ampi/170/170eb61dc537d720fbfe9e3c16058a919b04c50a_728_939_198247.jpeg",
+      "link": "https://xbato.com/series/126344/2023-these-days-love-special"
+    },
+    {
+      "title": "A Home Far Away",
+      "author": "Teki yatsuda",
+      "year": "2020",
+      "genres": [
+        "Mature",
+        "Drama",
+        "Psychological",
+        "Tragedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n01.mbopg.org/thumb/W600/ampi/74f/74f1d70c469dc380bf54bcded1086c797987942a_1516_2154_561237.jpeg",
+      "link": "https://xbato.com/series/117955/a-home-far-away-official"
+    },
+    {
+      "title": "My Secret Crush",
+      "author": "Zhuyi",
+      "year": "2021",
+      "genres": [
+        "Shoujo",
+        "Age gap",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k08.mbqgu.org/media/mbim/b4f/b4f503430f38cd1f396999672cd12a44f935182d_540_720_44998.webp",
+      "link": "https://xbato.com/series/108800/my-secret-crush-official"
+    },
+    {
+      "title": "Kamisama Hajimemashita",
+      "author": "Julietta Suzuki",
+      "year": "2012",
+      "genres": [
+        "Shoujo",
+        "Romance",
+        "Demons",
+        "Fantasy",
+        "Supernatural"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjQ2NWQ0Y2UtYzU5Yi00ZjI2LWE2MDEtMjRhZDNlZWJhOWQ3XkEyXkFqcGc@._V1_.jpg",
+      "link": "https://xbato.com/series/13807/kamisama-hajimemashita"
+    },
+    {
+      "title": "Hosekibako Ni Ai o Tsumeyo",
+      "author": "Mikimoto rin",
+      "year": "2025",
+      "genres": [
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k09.mbqgu.org/media/mbim/289/28901e12fec54fe170a0cbf0c4aa0a71f678bef7_600_851_76990.webp",
+      "link": "https://xbato.com/series/184715/hosekibako-ni-ai-o-tsumeyo"
+    },
+    {
+      "title": "Memories of Emanon",
+      "author": "Kajio Shinji, Tsuruta Kenji",
+      "year": "2018",
+      "genres": [
+        "Mystery",
+        "Historical",
+        "Psychological",
+        "Sci-fi"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/636f5140-2561-4520-984f-6e10a8cc5922/48129159-d545-4357-8a22-6aff930d4242.jpg.512.jpg",
+      "link": "https://mangadex.org/title/636f5140-2561-4520-984f-6e10a8cc5922/memories-of-emanon"
+    },
+    {
+      "title": " Hibi Chouchou",
+      "author": "Morishita suu",
+      "year": "2018",
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n09.mbwww.org/thumb/W600/ampi/abd/abdd8f5ca65d5d3dabeef2a28fb903eea2096f73_750_1101_429674.jpeg",
+      "link": "https://bato.to/series/11676/hibi-chouchou"
+    },
+    {
+      "title": "Kawaii Nante Kiitenai!!",
+      "author": "Haruhuji nakaba",
+      "year": "2022",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "https://bato.to/series/79330/kawaii-nante-kiitenai",
+      "image": "https://n12.mbwww.org/thumb/W600/ampi/c70/c70d94fba8f570e672f869c6590132bd0f42a24c_599_925_106482.jpeg",
+      "link": ""
+    },
+    {
+      "title": "S.P.Y.",
+      "author": "Ukyou ayane",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life",
+        "Comedy",
+        "Sports"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n20.mbhiz.org/thumb/W600/ampi/253/253e5a14ccfa165ff43493b14aa2b61a37273ebf_200_310_22827.jpg",
+      "link": "https://bato.to/series/45869/s-p-y"
+    },
+    {
+      "title": "Hana-kun Can't Live Without Me",
+      "author": "Ameko",
+      "year": "2024",
+      "genres": [
+        "Romance",
+        "Office Workers"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n22.mbdny.org/media/mbim/afe/afec65926f9e16a81e79a98d49361bfe65874fcc_600_918_106734.webp",
+      "link": "https://bato.to/series/165717/hana-kun-can-t-live-without-me"
+    },
+    {
+      "title": "Kimi to Barairo no Hibi",
+      "author": "Hiro Chihiro",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "School life",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/2ed/2eda61e5dbee3e901ca56ac131b993505ae83fcb_600_942_115866.webp",
+      "link": ""
+    },
+    {
+      "title": "Fundari, Kettari, Aishitari",
+      "author": "Ichiya sumi",
+      "year": "2021",
+      "genres": [
+        "Comedy",
+        "Office Workers",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n11.mbwww.org/thumb/W600/ampi/a3a/a3a207accdc59f84a948f04048bd5487fb678512_1170_1658_1707856.jpeg",
+      "link": "https://bato.to/series/91797/fundari-kettari-aishitari"
+    },
+    {
+      "title": "Tsubaki-chou Lonely Planet",
+      "author": "Yamamori mika",
+      "year": "2024",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/6c1eb4e1-95c5-466e-b4e6-ea545585d19a/1921bf9e-701c-4034-b50e-3a370f191f09.jpg.512.jpg",
+      "link": "https://mangadex.org/title/6c1eb4e1-95c5-466e-b4e6-ea545585d19a"
+    },
+    {
+      "title": "Hirunaka no Ryuusei",
+      "author": "Yamamori mika",
+      "year": "2019",
+      "genres": [
+        "School life",
+        "Romance",
+        "Slice of Life",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/7dab8f66-748e-4d83-a8a0-9f7440e254fc/1cd30eaa-87fc-4478-842f-a9af5c7a7b29.jpg.512.jpg",
+      "link": "https://bato.to/series/11985/hirunaka-no-ryuusei"
+    },
+    {
+      "title": "Blade of the Immortal",
+      "author": "Samura Hiroaki",
+      "year": "2020",
+      "genres": [
+        "Adventure",
+        "Action",
+        "Violence",
+        "Drama",
+        "Historical"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/4481002b-f65c-426a-8cb4-3a1bba1040c5/d4f09702-2208-40a1-9f5b-1ef91aabaeba.png.512.jpg",
+      "link": "https://mangadex.org/title/4481002b-f65c-426a-8cb4-3a1bba1040c5/blade-of-the-immortal"
+    },
+    {
+      "title": "futarijime romantic",
+      "author": "Kanisawa chihiro",
+      "year": "2023",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n17.mbhiz.org/thumb/W600/ampi/6a6/6a6064acf653f43d865ee372a0723000b10b5853_512_787_100000.jpeg",
+      "link": "https://bato.to/series/133386/futarijime-romantic"
+    },
+    {
+      "title": "Kimi ga Kirai na Koi no Hanashi ",
+      "author": "Sora mizuki",
+      "year": "2019",
+      "genres": [
+        "Romance",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n07.mbhiz.org/thumb/W600/ampi/fc6/fc6780130caeabf38e9dc8d1778167e404072de4_683_1024_94228.jpg",
+      "link": "https://bato.to/series/81105/kimi-ga-kirai-na-koi-no-hanashi-official"
+    },
+    {
+      "title": "Tadano Renai nanka Dekikkonai",
+      "author": "Mafuyu fukita",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "Office Workers"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n20.mbtmv.org/media/mbim/217/217e5291563b926ee27fa25a3c27451b4a404949_600_853_63690.webp",
+      "link": "https://bato.to/series/82065/tadano-renai-nanka-dekikkonai-kojirase-joushi-to-feti-na-buka-official"
+    },
+    {
+      "title": "You might as well be the one",
+      "author": "Megumu seto",
+      "year": "2024",
+      "genres": [
+        "College Life",
+        "Romance",
+        "Slice of Life",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n01.mbwbm.org/media/mbim/8fe/8fef83b482eeb8007d82b53003820f99d5e4ffa2_600_920_110586.jpeg",
+      "link": "https://bato.to/series/162000/you-might-as-well-be-the-one"
+    },
+    {
+      "title": "Hare Kon",
+      "author": "Non",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/b30/b30032c8c32d8237befee1cf6987fde5b0bcac4d_2588_3685_1550324.jpeg",
+      "link": "https://bato.si/title/82378-hare-kon-official"
+    },
+    {
+      "title": "Love is hard for otaku",
+      "author": "Fujita",
+      "year": "2014",
+      "genres": [
+        "Office Workers",
+        "Romance",
+        "Slice of Life",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n28.mbimg.org/thumb/W600/ampi/ae4/ae4044721b1276cc886599dd1dbc6aeab67a08a4_2587_3684_1195439.jpeg",
+      "link": "https://bato.to/series/82386/wotakoi-love-is-hard-for-otaku-official"
+    },
+    {
+      "title": "BJ Alex",
+      "author": "Mingwa",
+      "year": 2018,
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1642054940i/60115047.jpg",
+      "link": "https://xbato.com/series/78453/bj-alex"
+    },
+    {
+      "title": "Wind Breaker",
+      "author": "Jo Yongseok",
+      "year": 2013,
+      "genres": [
+        "Action",
+        "Sports",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1504722497i/36192724.jpg",
+      "link": "https://xbato.com/series/155309/wind-breaker-official"
+    },
+    {
+      "title": "Checkmate",
+      "author": "JH",
+      "year": 2021,
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://prodimage.images-bn.com/pimages/9798891609402_p0_v1_s1200x630.jpg",
+      "link": "https://xbato.com/series/82525/checkmate-all-ages-edition"
+    },
+    {
+      "title": "Nerd Project",
+      "author": "Hyeon A Cho",
+      "year": 2021,
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://us-a.tapas.io/sa/46/e8b10d58-7b8a-40fb-81f1-0ce59f1f9d0c_z.jpg",
+      "link": "https://xbato.com/series/143135/nerd-project-official"
+    },
+    {
+      "title": "Unmei no Hito ni Deau Hanashi",
+      "author": "Natsuki Kizu",
+      "year": 2019,
+      "genres": [
+        "Romance",
+        "Drama",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://pbs.twimg.com/media/GJlUhR4awAAOMwt.jpg",
+      "link": "https://xbato.com/series/143047/how-i-met-my-soulmate-official"
+    },
+    {
+      "title": "Nana",
+      "author": "Ai Yazawa",
+      "year": 2000,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1747097413i/98413.jpg",
+      "link": "https://xbato.com/series/38235/nana"
+    },
+    {
+      "title": "Piece of Cake",
+      "author": "George Asakura",
+      "year": 2003,
+      "genres": [
+        "Romance",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://c.mangaplaza.com/thumbnail/0303009339/103030093390001.jpg",
+      "link": "https://xbato.com/series/40185/piece-of-cake"
+    },
+    {
+      "title": "Gokurakugai",
+      "author": "Yuto Sano",
+      "year": "2022",
+      "genres": [
+        "Action",
+        "Supernatural",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n26.mbqtj.org/thumb/W600/ampi/5e0/5e064e1f8d8e1ecac9de76d912344fdf2984e090_1500_2250_2831244.jpeg ",
+      "link": "https://xbato.com/series/120940/gokurakugai-official"
+    },
+    {
+      "title": "Firefly Wedding",
+      "author": "Tachibana oreco",
+      "year": "2023",
+      "genres": [
+        "Mature",
+        "Drama",
+        "Historical",
+        "Psychological"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n05.mbmyj.org/thumb/W600/ampi/142/1427e9763211f72be8e9a2f7f93e23d993f1c8b8_640_954_402312.jpeg",
+      "link": "https://xbato.com/series/132934/firefly-wedding"
+    },
+    {
+      "title": "Museru Kurai no Ai o Ageru",
+      "author": "Iwashita keiko",
+      "year": "2022",
+      "genres": [
+        "College Life",
+        "Romance",
+        "Drama",
+        "Slice of Life",
+        "Music"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n11.mbtba.org/thumb/W600/ampi/a10/a10a835ec0e0b8c9e3e6fc7f2ebab7ac02f01889_1334_2048_515659.jpeg",
+      "link": "https://xbato.com/series/113046/museru-kurai-no-ai-o-ageru"
+    },
+    {
+      "title": "Yata-Momo",
+      "author": "Harada ",
+      "year": "2020",
+      "genres": [
+        "Slice of Life",
+        "Drama",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n27.mbfpu.org/media/mbim/32c/32cdafb3dec66ddb0fad6bc59fd035e07738c1a5_600_879_52768.webp  ",
+      "link": "https://xbato.com/series/181556/yata-momo-official"
+    },
+    {
+      "title": "19 days",
+      "author": "Old Xian",
+      "year": "2019",
+      "genres": [
+        "Comedy",
+        "Slice of Life",
+        "BL",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n21.mbopg.org/thumb/W600/ampi/27e/27ea6f8ca53e56660480c2dbb1f6d351507571e3_975_1519_516110.jpeg",
+      "link": "https://xbato.com/series/325/19-days"
+    },
+    {
+      "title": "SPY x FAMILY",
+      "author": "Tatsuya endo",
+      "year": "2019",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Supernatural"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:376/h:564/q:75/https://bleedingcool.com/wp-content/uploads/2021/11/SpyxFamily_Teaser-Cool_2x3.jpg",
+      "link": "https://xbato.com/series/74597/spy-x-family-official"
+    },
+    {
+      "title": "Incorrigible",
+      "author": "Bboong",
+      "year": "2019",
+      "genres": [
+        "BL",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://i.pinimg.com/736x/67/87/75/6787758438998208c104f06c64eba11d.jpg",
+      "link": "https://xbato.com/series/75509/incorrigible"
+    },
+    {
+      "title": "Out of Control",
+      "author": "Bboong",
+      "year": "2019",
+      "genres": [
+        "BL",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n02.mbtmv.org/thumb/W600/ampi/c25/c25620b577ba98bd996bddca6886c611609da647_350_491_49008.jpg",
+      "link": "https://xbato.com/series/60841/out-of-control"
+    },
+    {
+      "title": "Sasaki to Miyano",
+      "author": "Harusono syou",
+      "year": "",
+      "genres": [
+        "School life",
+        "Slice of Life",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n27.mbeaj.org/thumb/W600/ampi/7e5/7e5f32451b79e60a5c927f8c76ce5f76a7cb6c40_312_450_251898.png",
+      "link": "https://xbato.com/series/132035/sasaki-to-miyano-koushiki-anthology-comic-official"
+    },
+    {
+      "title": "Lawless Kid",
+      "author": "Sano Yuto",
+      "year": "2019",
+      "genres": [
+        "Action",
+        "Drama",
+        "Sci-fi",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k05.mbmyj.org/thumb/W600/ampi/9c2/9c2c38ac3cb03c45ec57d61d7329d5f9f5e961ac_700_1037_506175.jpeg",
+      "link": "https://xbato.com/series/95622/lawless-kid"
+    },
+    {
+      "title": "She Is Also Cute Today",
+      "author": "Guo Site",
+      "year": "2019",
+      "genres": [
+        "GL",
+        "Comedy",
+        "School life",
+        "Slice of Life",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n12.mbwww.org/thumb/W600/ampi/7dd/7dd62a225962fa1ffcc951fc574aee4f202ec677_1000_1500_421708.jpeg  ",
+      "link": "https://xbato.com/series/97740/my-darling-is-the-cutest-official"
+    },
+    {
+      "title": "Oyasumi Punpun",
+      "author": "Asano inio",
+      "year": "2007",
+      "genres": [
+        "Mature",
+        "Psychological",
+        "Romance",
+        "School life",
+        "Tragedy",
+        "Drama"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n00.mbrtz.org/thumb/W600/ampi/2e7/2e7804c1ca54db47f09b5dd83a0a4f0d09413cff_300_430_172965.jpg",
+      "link": "https://xbato.com/series/81535/oyasumi-punpun-official"
+    },
+    {
+      "title": "A Business Proposal",
+      "author": "Haewa, Perilla",
+      "year": "",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n24.mbmyj.org/media/mbim/01e/01e149d75a7c9207b67bed4b0a0b746c5d31b78e_600_861_146458.webp",
+      "link": "https://xbato.com/series/134447/a-business-proposal-official-print"
+    },
+    {
+      "title": "Chikyuu Umare no Anata e",
+      "author": "Ubukata tow",
+      "year": "2011",
+      "genres": [
+        "Oneshot",
+        "Tragedy",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n17.mbimg.org/thumb/W600/ampi/626/626528300c469912ac543b0a9b50ba82fee19f44_385_577_451288.png",
+      "link": "https://xbato.com/series/10723/chikyuu-umare-no-anata-e"
+    },
+    {
+      "title": "I'm dating a Psychopath",
+      "author": "NoSleepAreWe",
+      "year": "2020",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "https://external-preview.redd.it/webtoon-im-dating-a-psychopath-v0-nAzDBpZexIPt2qv5OmTHW5a-C3yvg2-paZAFHFXa03U.jpg?auto=webp&s=657218127f17b55f8e441d6b609a42a9eacf69b1",
+      "link": "https://www.webtoons.com/en/thriller/im-dating-a-psycopath/list?title_no=5877"
+    },
+    {
+      "title": "Here U Are",
+      "author": "D. jun",
+      "year": "2017",
+      "genres": [
+        "BL",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n30.mbhiz.org/thumb/W600/ampi/5e0/5e0f02567ec68f61cfed6e09263d27380d94450d_831_1200_134279.jpg",
+      "link": "https://xbato.com/series/70482/here-u-are"
+    },
+    {
+      "title": "Blood Link",
+      "author": "Brothers without a tomorrow.",
+      "year": "2018",
+      "genres": [
+        "BL",
+        "Vampires",
+        "Romance",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n27.mbwnp.org/thumb/W600/ampi/22f/22fd5630870b008d04b3f5596132a615def14822_480_640_29930.jpg",
+      "link": "https://xbato.com/series/83154/blood-link"
+    },
+    {
+      "title": "Murderous Lewellyn's Candlelit Dinner",
+      "author": "Sum Na Gi",
+      "year": "2020",
+      "genres": [
+        "Crime",
+        "Drama",
+        "Psychological",
+        "Historical"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n03.mbzcp.org/thumb/W600/ampi/bb7/bb7726b744bbfae15bf73b2c043fd1d63177126a_840_1120_234526.jpeg",
+      "link": "https://bato.to/title/81198-murderous-lewellyn-s-candlelit-dinner"
+    },
+    {
+      "title": "Nega",
+      "author": "Harada",
+      "year": "2020",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495233940i/30271305.jpg",
+      "link": "https://bato.to/series/38805/nega"
+    },
+    {
+      "title": "Hideout",
+      "author": "Masasumi KAKIZAKI",
+      "year": "2010",
+      "genres": [
+        "Horror"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/I/71WPAYwsvBL._UF350,350_QL50_.jpg",
+      "link": "https://bato.to/series/11723/hideout"
+    },
+    {
+      "title": "Look Back",
+      "author": "Tatsuki Fujimoto",
+      "year": "2021",
+      "genres": [
+        "Slice of Life",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/77/Look_Back_volume_cover.jpg",
+      "link": "https://bato.to/series/90127/look-back-official-simulpub"
+    },
+    {
+      "title": "Goodbye, Eri",
+      "author": "Tatsuki Fujimoto",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Romance",
+        "Slice of Life",
+        "Tragedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k00.mbhiz.org/thumb/W600/ampi/6e9/6e9696a86ad411ec94c5e16ced47d0c7acb46387_1725_2475_3230580.jpeg",
+      "link": ""
+    },
+    {
+      "title": "My Dearest Self With Malice Aforethought",
+      "author": "Inoryuu hajime",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Drama",
+        "Horror"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n04.mbzcp.org/thumb/W600/ampi/8b0/8b0ee4580d49a693e4640ae0353ea8d77f4abdb8_768_1152_114885.jpg",
+      "link": "https://bato.to/series/83775/shinai-naru-boku-e-satsui-o-komete-official"
+    },
+    {
+      "title": "A Trail of Blood",
+      "author": "Oshimi shuuzou",
+      "year": "2017",
+      "genres": [
+        "Horror",
+        "Psychological"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n24.mbtba.org/thumb/W600/ampi/c5d/c5d1676c788261c3f97c61b9a6cfae9c350149a1_225_343_14216.jpg",
+      "link": "https://bato.to/series/31864/a-trail-of-blood"
+    },
+    {
+      "title": "Dead Or Alive",
+      "author": "Iago",
+      "year": "2022",
+      "genres": [
+        "Adventure",
+        "Crime",
+        "Historical"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n04.mbuul.org/thumb/W600/ampi/d97/d97f2faa37143b2975e093fda022010c6d993fcd_840_1120_174370.jpeg",
+      "link": "https://bato.to/series/153737/dead-or-alive-official"
+    },
+    {
+      "title": "Reunion",
+      "author": "Lee coin",
+      "year": "2022",
+      "genres": [
+        "Childhood Friends",
+        "Slice of Life",
+        "Drama",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n12.mbfpu.org/thumb/W600/ampi/11f/11f656b1cb16bea7bfa602562d65f150eae05f63_720_1536_124661.jpeg ",
+      "link": "https://bato.to/series/116599/reunion-official"
+    },
+    {
+      "title": "Touch Within the Abyss",
+      "author": "Mori moyori",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n20.mbqtj.org/thumb/W600/ampi/5a5/5a500e3cdc360075c740177c0ec8fa7b378b81c8_840_1200_259989.jpeg",
+      "link": "https://bato.to/series/135526/touch-within-the-abyss-official"
+    },
+    {
+      "title": "Takara's Treasure",
+      "author": "Minta suzumaru",
+      "year": "2024",
+      "genres": [
+        "Age gap",
+        "BL",
+        "College Life",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n09.mbuul.org/media/mbim/2d9/2d9c6aaa3c23dd4ded7e407a577c497c917cc051_600_863_217739.jpeg",
+      "link": "https://bato.to/series/173316/takara-s-treasure-official"
+    },
+    {
+      "title": "A First of Summers",
+      "author": "Ppanghouse",
+      "year": "2024",
+      "genres": [
+        "BL",
+        "Romance",
+        "Age gap"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k07.mbtba.org/media/mbim/249/2494310efd66f49825492ff8e3d6784051b2cc69_420_560_36000.webp",
+      "link": "https://bato.to/series/176262/a-first-of-summers-official"
+    },
+    {
+      "title": "The Pizza Delivery Man and Gold Palace",
+      "author": "Upi",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "BL",
+        "Romance",
+        "Psychological"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n28.mbqgu.org/media/mbim/54d/54d2cb61b5bfa94c7c41fda1ffc3ecfd6bd5afee_600_863_78016.webp",
+      "link": "https://bato.to/series/179148/the-pizza-delivery-man-and-gold-palace-manta-full-ver"
+    },
+    {
+      "title": "Shutline",
+      "author": "Kyou",
+      "year": "2021",
+      "genres": [
+        "Gore",
+        "Mature",
+        "Violence",
+        "BL",
+        "Crime"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n18.mbtmv.org/thumb/W600/ampi/122/122135d3918b96efe27e1c697c2add250f25bd58_720_960_247744.jpeg",
+      "link": "https://bato.to/series/88295/shutline-official"
+    },
+    {
+      "title": "Guiding Hazard",
+      "author": "Sunsun",
+      "year": "2023",
+      "genres": [
+        "Mature",
+        "BL",
+        "Romance",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n11.mbtba.org/thumb/W600/ampi/b36/b3660d8c9cca801465dd7cc778b6b67aaae3c7f3_840_1120_410701.jpeg",
+      "link": "https://bato.to/series/136611/guiding-hazard-official"
+    },
+    {
+      "title": "Between Fate and Fortune",
+      "author": "Mono",
+      "year": "2022",
+      "genres": [
+        "Drama",
+        "BL",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n19.mbfpu.org/media/mbim/838/838c4b3d03babdf2a52cd3c344263b98aed803c4_600_801_25002.webp",
+      "link": "https://bato.to/series/119750/between-fate-and-fortune"
+    },
+    {
+      "title": "Dreadful Night",
+      "author": "Moan",
+      "year": "2023",
+      "genres": [
+        "Crime",
+        "Horror",
+        "Game",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n22.mbznp.org/thumb/W600/ampi/4e5/4e58b24b44e1d4a634e802db7e91c0de5d45e12f_840_1120_495333.jpeg",
+      "link": "https://bato.to/series/127750/dreadful-night"
+    },
+    {
+      "title": "Between the Lines",
+      "author": "Hodot",
+      "year": "2023",
+      "genres": [
+        "College Life",
+        "Mature",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n27.mbeaj.org/thumb/W600/ampi/64e/64e096dde29847d0458de73a2c69ff33af9c683d_840_1120_225512.jpeg",
+      "link": "https://bato.to/series/131737/between-the-lines-official"
+    },
+    {
+      "title": "Off Track",
+      "author": "Musosik",
+      "year": "2023",
+      "genres": [
+        "Violence",
+        "BL",
+        "Drama",
+        "Mature"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n00.mbimg.org/thumb/W600/ampi/b2b/b2bbfca74f698af590ed50fcc9b5a3afc4aa3b1e_960_1392_340746.jpeg",
+      "link": "https://bato.to/title/147357-off-trac  "
+    },
+    {
+      "title": "Dead Core",
+      "author": "D",
+      "year": "2025",
+      "genres": [
+        "Romance",
+        "Music",
+        "Mature",
+        "College Life",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n20.mbqgu.org/media/mbim/84d/84dabc898595b694fadd4439d14ff5b6addd239b_600_800_44578.webp",
+      "link": "https://bato.to/series/202484/dead-core-official"
+    },
+    {
+      "title": "Operation: True Love",
+      "author": "작전명 순정",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/aaf/aaf109b9a636a75c427a10db34217e79d6a7b081_480_623_130724.webp",
+      "link": "https://bato.si/title/204574-operation-true-love-nyx-scans"
+    },
+    {
+      "title": "Purple Hyacinth",
+      "author": "5ophism",
+      "year": "2019",
+      "genres": [
+        "Crime",
+        "Mystery",
+        "Police  ",
+        "Action"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k08.mbznp.org/thumb/W600/ampi/61b/61b97ea11dfe8f0363e50ea1ae459154110c128a_736_1422_146957.jpeg",
+      "link": "https://www.webtoons.com/en/mystery/purple-hyacinth/list?title_no=1621"
+    },
+    {
+      "title": "Hell's Paradise: Jigokuraku",
+      "author": "Yuji kaku",
+      "year": "2018",
+      "genres": [
+        "Adventure",
+        "Demons",
+        "Romance",
+        "Psychological",
+        "Horror",
+        "Supernatural"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n27.mbfpu.org/thumb/W600/ampi/469/469f15d40bc32860b0e4466d7e2dd6e8a63443e4_600_863_130612.jpeg",
+      "link": ""
+    },
+    {
+      "title": "Princess Jellyfish",
+      "author": "Higashimura akiko",
+      "year": "2012",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n18.mbdny.org/thumb/W600/ampi/1e2/1e24c9f08b202b376902aadca8adcebf43ee739b_450_675_48088.jpg",
+      "link": "https://bato.to/series/82556/princess-jellyfish-official"
+    },
+    {
+      "title": "Switch Girl",
+      "author": "Aida, Natsumi",
+      "year": "2019",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/76c/76c95340fc9a9d8838c9b76215e6b13bf2446340_193_300_17952.jpg",
+      "link": ""
+    },
+    {
+      "title": "Complex",
+      "author": "Kikuchi Kumiko",
+      "year": "2019",
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/fef154e8-2dae-45e8-8e36-de56a1b6f35f/bb085354-5e4e-4567-8932-d31c2c440d40.jpg.512.jpg",
+      "link": "https://mangadex.org/title/fef154e8-2dae-45e8-8e36-de56a1b6f35f"
+    },
+    {
+      "title": "Cheeky Brat",
+      "author": "Miyuki mitsubachi",
+      "year": "2013",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Slice of Life",
+        "Sports"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n21.mbhiz.org/media/mbim/d03/d03fc3c8370d07150e108a28ee74648d34acad4d_600_942_94212.webp",
+      "link": "https://bato.to/series/96923/namaikizakari-official"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "ArcaneNine";
+  src: url("./assets/fonts/arcane-nine/arcane-nine/Arcane Nine.otf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+.arcane-font {
+  font-family: "ArcaneNine", sans-serif;
+}
+@font-face {
+  font-family: "Beaufort-for-lol";
+  src: url("./assets/fonts/beaufort-for-lol/beaufort-for-lol/BeaufortforLOL-Regular.ttf") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+.beaufort{
+    font-family: "Beaufort-for-lol";
+}
+
+@keyframes cartoon-tilt {
+  0% { transform: rotate(0deg) scale(1); }
+  25% { transform: rotate(10deg) }
+  50% { transform: rotate(15deg) }
+  75% { transform: rotate(10deg)}
+  100% { transform: rotate(0deg) scale(1); }
+}
+
+.hover\:animate-cartoon-tilt:hover {
+  animation: cartoon-tilt 0.6s ease-in-out;
+}
+
