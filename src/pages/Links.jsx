@@ -14,13 +14,12 @@ function Links() {
   const links = getLinks();
 
   return (
-    <div className="pb-10 px-4 md:px-10">
-  <h2 className="text-center text-[30px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
+    <div className="md:px-20 pb-10 sm:px-15 pb-10 px-4  ">
+      <h2 className="text-center text-[30px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
         style={fontStyle}>
         Links
       </h2>
-      <div className="md:px-20 pb-10 sm:px-15 pb-10 px-10">
-
+      <div >
         {links.length === 0 ? (
           <p className="text-center text-gray-400">No links found.</p>
         ) : (
