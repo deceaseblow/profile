@@ -1,5 +1,5 @@
-import React from 'react'
 import dividertop from "../assets/dividerBot2.png"
+
 function dividerTop() {
   return (
     <div>

@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ShowsCard from "../comp/ShowsCard"; // could be renamed MovieCard
+import ShowsCard from "../comp/ShowsCard"; 
 import { useAppData } from "../context/AppDataContext";
 const fontStyle = {
   fontFamily: "'antsValley', sans-serif"

@@ -1,4 +1,3 @@
-import React from 'react'
 import dividertop from "../assets/dividerTop.png"
 function dividerTop() {
   return (

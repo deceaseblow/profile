@@ -38,6 +38,14 @@
       "url": "https://controlcoreangel.neocities.org/graphics"
     },
     {
+      "name": "cursors",
+      "url": "https://www.cursors-4u.com/"
+    },
+    {
+      "name": "jaypixels",
+      "url": "https://rentry.org/jaypixels"
+    },
+    {
       "name": "pixels/dividers/other",
       "url": "https://yokai.crd.co/"
     },
@@ -78,9 +86,7 @@
       "url": "https://beedge.neocities.org/"
     }
   ],
-  "list": [
-  
-  ],
+  "list": [],
   "animes": [
     {
       "title": "Closer",
@@ -810,6 +816,64 @@
       "link": "https://xbato.com/series/78552/parasite-in-love"
     },
     {
+      "title": "Ao Haru Ride",
+      "author": "Io Sakisaka",
+      "year": "2011",
+      "genres": [
+        "Romance",
+        "School life",
+        "Drama",
+        "Shoujo"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://n20.mbqtj.org/thumb/W600/ampi/b08/b08a8cbc59b7deb9212a6fff5480f425806ed8f1_320_480_74703.jpg",
+      "link": "https://xbato.com/title/81632-ao-haru-ride-official"
+    },
+    {
+      "title": "The Black Mirror",
+      "author": "Muhwa",
+      "year": "2020",
+      "genres": [
+        "BL",
+        "Thriller",
+        "Horror",
+        "Psychological"
+      ],
+      "status": "completed",
+      "comment": "",
+      "image": "https://k06.mbdny.org/thumb/W600/ampi/2d7/2d77dac107af10ca89ecc1276ffd020d411648d7_420_610_218843.jpg",
+      "link": "https://xbato.com/title/81933-the-black-mirror-mature  "
+    },
+    {
+      "title": "Lucky Paradise",
+      "author": "KangNeuk",
+      "year": "2021",
+      "genres": [
+        "BL",
+        "Sports",
+        "Romance",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n16.mbdny.org/thumb/W600/ampi/e73/e73a0ca696ed8f0d00348e53bc2686453688ae71_316_422_67303.jpeg",
+      "link": "https://xbato.com/title/82185-lucky-paradise"
+    },
+    {
+      "title": "How to Get My Husband on My Side",
+      "year": "2021",
+      "author": "Lee Hyeon-Sook",
+      "genres": [
+        "Romance",
+        "Historical"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://i.redd.it/rrgeduzr9bja1.jpg",
+      "link": "https://xbato.com/title/95218-how-to-get-my-husband-on-my-side"
+    },
+    {
       "title": "Sadistic Beauty, SideStory",
       "author": "Lee Geumsan",
       "year": "2021",
@@ -1090,6 +1154,21 @@
       "comment": "",
       "image": "https://mangadex.org/covers/636f5140-2561-4520-984f-6e10a8cc5922/48129159-d545-4357-8a22-6aff930d4242.jpg.512.jpg",
       "link": "https://mangadex.org/title/636f5140-2561-4520-984f-6e10a8cc5922/memories-of-emanon"
+    },
+    {
+      "title": "Red Thread Quest",
+      "author": "soop2rang",
+      "year": "2025",
+      "genres": [
+        "Supernatural",
+        "College Life",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n17.mbmyj.org/media/mbim/354/354d47981df9c80cf038547e8c6a383590c1476c_600_800_39210.webp",
+      "link": "https://xbato.com/title/190549-red-thread-quest-official"
     },
     {
       "title": " Hibi Chouchou",

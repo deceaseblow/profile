@@ -1,8 +1,7 @@
-import React from "react";
 import pfpPic from "../assets/pixels/pfp.jpg";
-import bow from "../assets/pixels/bow.gif";
 import borderPfp from "../assets/borderPfp.png";
-
+import gun from "../assets/pixels/gun.webp"
+import smolBow from "../assets/pixels/smolBow.gif"
 function Pfp() {
     return (
         <div className="flex justify-center items-center">
@@ -17,10 +16,10 @@ function Pfp() {
                     alt="Profile"
                     className="w-25 h-25 rounded-full p-2 md:w-40 md:h-40 "
                 />
-                {/*  <div className="absolute right-5 bottom-5"> <img src={pfpHeart} alt="" /></div>
-                <div className="absolute left-2 bottom-1"> <img src={pfpHeart} alt="" /></div>
-                <div className="absolute left-2 bottom-2"> <img src={bow} alt="" /></div>
-                */}
+                <div className="absolute left-1/2 bottom-[-10px] transform -translate-x-1/2 z-20"> <img src={smolBow} alt="" /></div>
+                <div className="absolute right-[0px] top-[15px] md:right-1 md:top-8 z-20"> <img src={gun} alt="" /></div>
+
+
             </div>
         </div>
     );

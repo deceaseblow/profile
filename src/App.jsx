@@ -1,28 +1,25 @@
 import { BrowserRouter as Router, Routes, Route, NavLink } from "react-router-dom";
 import { MangaProvider } from "./context/mangaContext";
 import { AppDataProvider } from "./context/AppDataContext";
+import "./App.css"
 import Home from "./pages/Home";
 import Animes from "./pages/Animes";
 import MangaList from "./pages/MangaList";
 import Pfp from "./comp/pfp";
-import Divider from "./comp/divider";
-import "./App.css"
 import Games from "./pages/Games";
 import Blogs from "./pages/Blogs";
 import Gallery from "./pages/Gallery";
 import DividerTop from "./comp/dividerTop";
-import stars from "./assets/pixels/stars.gif"
 import Links from "./pages/Links";
 import Shows from "./pages/Shows";
 import Movies from "./pages/Movies";
 import DividerBot from "./comp/dividerBot";
+
 export default function App() {
   return (
     <Router>
       <AppDataProvider>
-        {/* Main Container */}
         <div className="flex flex-col md:flex-row h-screen bg-gray-100 beaufort">
-          {/* LEFT SIDEBAR */}
           <div className="w-full md:w-64 bg-[#000] text-white flex flex-col justify-between md:h-screen md:sticky md:top-0">
             <div>
               <DividerTop />
@@ -34,7 +31,6 @@ export default function App() {
               </div>
               <nav className="flex flex-col">
                 <div>
-                  {/* <img src={stars} alt="" className="hidden md:block" />*/}
                   <div className="flex flex-wrap gap-1 md:flex md:flex-col md:gap-0 md:p-0 justify-center">
                     <NavLink
                       to="/"
@@ -122,13 +118,10 @@ export default function App() {
                       Movies
                     </NavLink>
                   </div>
-                  {/* <img src={stars} alt="" className="hidden md:block" />*/}
                 </div>
               </nav>
             </div>
             <div className="hidden md:block">
-              {/* <Divider />*/}
-
               <div>
                 <DividerBot />
               </div>

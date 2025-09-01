@@ -1,5 +1,3 @@
-import React from "react";
-
 const ShowsCard = ({ show }) => {
   return (
     <div className="w-60 bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] rounded-lg overflow-hidden transition-transform duration-300 hover:scale-[1.02]">
