@@ -18,7 +18,7 @@ export default function MangaCard({ manga }) {
   }, [manga.link]);
 
   return (
-    <div className="bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] overflow-hidden rounded-lg transition-transform duration-300 w-64 hover:scale-[1.02]">
+    <div className="bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] overflow-hidden rounded-lg transition-transform duration-300 w-64 ">
       <a
         href={manga.link}
         target="_blank"

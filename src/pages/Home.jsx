@@ -42,6 +42,7 @@ export default function Home() {
               )}
             </div>
           </div>
+          {/* 
           <div className="flex flex-col items-center md:items-start">
             <h2 className="text-center text-black font-bold tracking-wider text-[25px] md:text-start">
               Soon to be added...
@@ -57,7 +58,7 @@ export default function Home() {
             <div>
               <p>Another very uninsteresting parag.</p>
             </div>
-          </div>
+          </div>*/}
         </div>
       </div>
     </div>
