@@ -39,15 +39,9 @@ const Movies = () => {
           placeholder="Search movies..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-          className="mb-6 px-6 py-3 border-4 border-black bg-white text-black font-mono text-md
-               focus:outline-none focus:bg-black focus:text-white focus:placeholder-gray-300
-               w-80 uppercase tracking-wider transition-all duration-200 shadow-lg
-               placeholder-gray-600 placeholder:font-bold"
-          style={{
-            boxShadow: '6px 6px 0px black',
-            imageRendering: 'pixelated',
-            textShadow: '1px 1px 0px rgba(255,255,255,0.5)'
-          }}
+        className="my-6 w-72 sm:w-80 px-4 py-2 rounded-full border border-gray-400 bg-white text-black font-mono text-sm sm:text-base
+             focus:outline-none focus:ring-2 focus:ring-black focus:border-black
+             placeholder-gray-500 placeholder:italic transition-all duration-200"
         />
 
         <div className="flex flex-wrap gap-6 justify-center">

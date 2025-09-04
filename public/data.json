@@ -1915,7 +1915,7 @@
       "title": "Nega",
       "author": "Harada",
       "year": "2020",
-      "genres": [],
+      "genres": ["Drama", "Psyschological", "BL"],
       "status": "reading",
       "comment": "",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495233940i/30271305.jpg",
@@ -1926,7 +1926,9 @@
       "author": "Masasumi KAKIZAKI",
       "year": "2010",
       "genres": [
-        "Horror"
+        "Horror",
+        "Psychological",
+        "Seinen"
       ],
       "status": "reading",
       "comment": "",
