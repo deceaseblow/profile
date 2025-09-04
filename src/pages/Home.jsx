@@ -13,13 +13,18 @@ export default function Home() {
     <div>
       <div className="pb-10 px-4 md:px-10">
         <h2
-          className="text-center text-[30px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
+          className="text-center text-[22px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
           style={fontStyle}
         >
           Home
         </h2>
+
         <div className=" flex flex-col gap-5 px-5 md:pl-10 md:pt-10">
+
           <div>
+            <h1>Socials</h1>
+          </div>
+          {/* <div>
             <h2 className="text-center text-black font-bold tracking-wider text-[25px] md:text-start">
               LIST OF THINGS TO KEEP IN MIND
             </h2>
@@ -41,7 +46,8 @@ export default function Home() {
                 </p>
               )}
             </div>
-          </div>
+          </div> 
+          */}
           {/* 
           <div className="flex flex-col items-center md:items-start">
             <h2 className="text-center text-black font-bold tracking-wider text-[25px] md:text-start">

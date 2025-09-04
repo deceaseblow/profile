@@ -18,7 +18,7 @@ export default function MangaCard({ manga }) {
   }, [manga.link]);
 
   return (
-    <div className="bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] overflow-hidden rounded-lg transition-transform duration-300 w-44 sm:w-56 md:w-64">
+    <div className="bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] overflow-hidden rounded-lg transition-transform duration-300 w-40 sm:w-56 md:w-64">
       <a
         href={manga.link}
         target="_blank"
@@ -32,7 +32,7 @@ export default function MangaCard({ manga }) {
         />
       </a>
 
-      <div className="p-3 sm:p-4 flex flex-col gap-2 font-mono text-white">
+      <div className="p-3 sm:p-4 flex flex-col gap-2 text-white">
         <h2 className="text-sm sm:text-base md:text-lg font-bold uppercase tracking-wide">
           {manga.title}
         </h2>
@@ -53,7 +53,7 @@ export default function MangaCard({ manga }) {
           )}
         </div>
         <p className="mt-2 text-[10px] sm:text-[11px] text-gray-400 uppercase">
-          Status:{" "}
+          Status : {" "}
           <span
             className={`font-semibold ${
               manga.status === "completed" ? "text-[#fff]" : "text-red-400"

@@ -29,7 +29,7 @@ const Movies = () => {
 
   return (
     <div className="pb-10 px-4 md:px-10">
-     <h2 className="text-center text-[30px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
+     <h2 className="text-center text-[22px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
       Movies
     </h2>
       <div className="flex flex-col items-center ">
@@ -44,7 +44,7 @@ const Movies = () => {
              placeholder-gray-500 placeholder:italic transition-all duration-200"
         />
 
-        <div className="flex flex-wrap gap-6 justify-center">
+        <div className="flex flex-wrap gap-3 justify-center">
           {filteredMovies.slice(0, visibleCount).map((movie, index) => (
             <ShowsCard key={index} show={movie} />
           ))}

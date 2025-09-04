@@ -1,12 +1,12 @@
 const ShowsCard = ({ show }) => {
   return (
-    <div className="w-44 sm:w-52 md:w-60 bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] rounded-lg overflow-hidden transition-transform duration-300 hover:scale-[1.02]">
+    <div className="w-40 sm:w-52 md:w-60 bg-[#111] border border-gray-700 shadow-[0_0_15px_rgba(255,255,255,0.05)] rounded-lg overflow-hidden transition-transform duration-300 hover:scale-[1.02]">
       <img
         src={show.image}
         alt={show.title}
         className="w-full h-56 sm:h-64 md:h-80 object-cover bg-gray-900 filter grayscale hover:grayscale-0 transition duration-300"
       />
-      <div className="px-3 sm:px-4 py-2 sm:py-3 flex flex-col gap-1.5 sm:gap-2 font-mono text-white">
+      <div className="px-3 sm:px-4 py-2 sm:py-3 flex flex-col gap-1.5 sm:gap-2 text-white">
         <h3 className="font-bold text-sm sm:text-base md:text-lg uppercase tracking-wide leading-tight">
           {show.title}
         </h3>

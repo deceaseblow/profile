@@ -30,7 +30,7 @@ const Shows = () => {
 
   return (
     <div className="pb-10 px-4 md:px-10">
-      <h2 className="text-center text-[30px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
+      <h2 className="text-center text-[22px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
         Shows
       </h2>
       <div className="flex flex-col items-center ">
@@ -44,7 +44,7 @@ const Shows = () => {
              focus:outline-none focus:ring-2 focus:ring-black focus:border-black
              placeholder-gray-500 placeholder:italic transition-all duration-200"
         />
-        <div className="flex flex-wrap gap-6 justify-center">
+        <div className="flex flex-wrap gap-3 justify-center">
           {filteredShows.slice(0, visibleCount).map((show, index) => (
             <ShowCard key={index} show={show} />
           ))}

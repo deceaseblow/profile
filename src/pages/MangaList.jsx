@@ -41,10 +41,10 @@ const MangaList = () => {
   return (
     <div className="pb-10 px-4 md:px-10">
       <h2
-        className="text-center text-[30px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
+        className="text-center text-[22px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
         style={fontStyle}
       >
-        Manga List ! ( will be updated ! ^-^ )
+        Manga List 
       </h2>
 
       <div className="flex flex-col items-center justify-center">
@@ -63,7 +63,7 @@ const MangaList = () => {
         {/* READING LIST */}
         <h3 className="text-center text-[30px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[32px]"
         >To-be Read</h3>
-        <div className="p-3 flex flex-wrap gap-6 justify-center">
+        <div className="py-3 flex flex-wrap gap-3 justify-center">
           {readingMangas.slice(0, visibleReading).map((manga, index) => (
             <MangaCard key={`reading-${index}`} manga={manga} />
           ))}
@@ -79,7 +79,7 @@ const MangaList = () => {
 
         {/* WILL READ LIST */}
         <h3 className="text-center text-[30px] font-bold mb-2 mt-4 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[32px]">Read / Fav list</h3>
-        <div className="p-3 flex flex-wrap gap-6 justify-center">
+        <div className="py-3 flex flex-wrap gap-3 justify-center">
           {willReadMangas.slice(0, visibleWillRead).map((manga, index) => (
             <MangaCard key={`willread-${index}`} manga={manga} />
           ))}
