@@ -8,13 +8,17 @@ function Links() {
   const { getLinks, loading } = useAppData();
 
   if (loading) {
-    return <p className="text-center mt-4 text-gray-500">Loading...</p>;
+    return <div> <div className="pb-10 px-4 md:px-10">
+      <h2 className="text-center text-[22px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
+        style={fontStyle}>
+        Links
+      </h2><p className="text-center mt-4 text-gray-500">Loading the links...</p></div></div>;
   }
 
   const links = getLinks();
 
   return (
-   <div className="pb-10 px-4 md:px-10">
+    <div className="pb-10 px-4 md:px-10">
       <h2 className="text-center text-[22px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
         style={fontStyle}>
         Links
@@ -62,7 +66,7 @@ function Links() {
           </div>
         )}
       </div>
-      </div>
+    </div>
   );
 }
 

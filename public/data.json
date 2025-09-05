@@ -861,6 +861,21 @@
       "link": "https://xbato.com/title/82185-lucky-paradise"
     },
     {
+      "title": "The Ki Sisters",
+      "author": "Gi Jamae",
+      "year": "2021",
+      "genres": [
+        "Romance",
+        "Drama",
+        "School life",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/fef/fef02c53a1d0300be40fd3ba66e279ac2854de8d_480_623_68526.webp",
+      "link": "https://bato.si/title/204849-the-ki-sisters-official"
+    },
+    {
       "title": "How to Get My Husband on My Side",
       "year": "2021",
       "author": "Lee Hyeon-Sook",
@@ -1057,9 +1072,7 @@
       "genres": [
         "Horror",
         "Action",
-        "Supernatural",
-        "Comedy",
-        "Drama"
+        "Supernatural"
       ],
       "status": "completed",
       "comment": "",
@@ -1154,6 +1167,20 @@
       "comment": "",
       "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c3/Emanon%2C_Memories_of_Emanon.png/250px-Emanon%2C_Memories_of_Emanon.png",
       "link": "https://mangadex.org/title/636f5140-2561-4520-984f-6e10a8cc5922/memories-of-emanon"
+    },
+    {
+      "title": "Accidental Love",
+      "author": "Qiao Yao",
+      "year": "2024",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/d98/d989ceb566cf1f4f4f68c7b87e88e422fc2c9258_810_1074_238369.jpeg",
+      "link": "https://bato.si/title/147544-accidental-love"
     },
     {
       "title": "Red Thread Quest",
@@ -1666,7 +1693,12 @@
       "title": "Antidote",
       "author": "harusari",
       "year": "2023",
-      "genres": ["Historical", "Drama", "BL","Fantasy"],
+      "genres": [
+        "Historical",
+        "Drama",
+        "BL",
+        "Fantasy"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/b7f/b7f8a578c49b4e67a9e2f1eb26d03d45d7b37ed9_420_560_100106.jpeg",
@@ -1676,7 +1708,12 @@
       "title": "Eternal Covenant",
       "author": "Haejin",
       "year": "2021",
-      "genres": ["BL", "Historical", "Romance", "Fantasy"],
+      "genres": [
+        "BL",
+        "Historical",
+        "Romance",
+        "Fantasy"
+      ],
       "status": "",
       "comment": "reading",
       "image": "https://bato.si/media/mbim/9ab/9ab860364e8391fc180226e5eff8d423900d8b08_600_800_63482.webp",
@@ -1686,7 +1723,12 @@
       "title": "Feel my benefit",
       "author": "Bammandeuk",
       "year": "2023",
-      "genres": ["BL","College Life", "Drama", "Psychological"],
+      "genres": [
+        "BL",
+        "College Life",
+        "Drama",
+        "Psychological"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/mbim/23b/23b25b74d62fac834cddd4c407918ffd8a05d6d3_600_800_65850.webp",
@@ -1696,7 +1738,12 @@
       "title": "My egocentric boss is obsessed with me",
       "author": "Wonmic",
       "year": "2022",
-      "genres": ["Office Workers", "BL", "Romance", "Slice of Life"],
+      "genres": [
+        "Office Workers",
+        "BL",
+        "Romance",
+        "Slice of Life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/904/904aeb0120715c5f398bab92a68dbfee6d39b0bc_420_610_129569.jpeg",
@@ -1706,7 +1753,13 @@
       "title": "Undercover at a Chaebol High School",
       "author": "AJ",
       "year": "2022",
-      "genres": ["Action", "Adventure","Romance", "Revenge", "School life"],
+      "genres": [
+        "Action",
+        "Adventure",
+        "Romance",
+        "Revenge",
+        "School life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/cd1/cd1938845b590dd8c21072b354f78fe492ec2e62_752_1080_278886.jpeg",
@@ -1716,7 +1769,11 @@
       "title": "Betrayal of dignity",
       "author": "KIMPA",
       "year": "2023",
-      "genres": ["Historical", "Romance", "Fantasy"],
+      "genres": [
+        "Historical",
+        "Romance",
+        "Fantasy"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/2aa/2aa5f52ce3c5440b54a70a608c31e24cd4cd72c9_720_1035_129187.jpeg",
@@ -1726,7 +1783,11 @@
       "title": "My dear Nemesis",
       "author": "Ji jing jun",
       "year": "2023",
-      "genres": ["Romance", "School life", "Slice of Life"],
+      "genres": [
+        "Romance",
+        "School life",
+        "Slice of Life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/c85/c850f31c1944aa175885392d8450662139162c37_400_600_36153.jpeg",
@@ -1915,7 +1976,11 @@
       "title": "Nega",
       "author": "Harada",
       "year": "2020",
-      "genres": ["Drama", "Psyschological", "BL"],
+      "genres": [
+        "Drama",
+        "Psyschological",
+        "BL"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1495233940i/30271305.jpg",
@@ -2318,6 +2383,23 @@
       "comment": "",
       "image": "https://n21.mbhiz.org/media/mbim/d03/d03fc3c8370d07150e108a28ee74648d34acad4d_600_942_94212.webp",
       "link": "https://bato.to/series/96923/namaikizakari-official"
+    }
+  ],
+  "socials": [
+    {
+      "platform": "GitHub",
+      "link": "https://github.com/deceaseblow",
+      "icon": "FaGithub"
+    },
+    {
+      "platform": "Pinterest",
+      "link": "https://pin.it/39VdNFhUT",
+      "icon": "FaPinterest"
+    },
+    {
+      "platform": "Carrd",
+      "link": "redlipsticckk.carrd.co",
+      "icon": "FaCarrd"
     }
   ]
 }

@@ -8,15 +8,25 @@ const fontStyle = {
 
 const MangaList = () => {
   const { mangaList, loading } = useManga();
-  const [visibleReading, setVisibleReading] = useState(5);   // limit for reading
-  const [visibleWillRead, setVisibleWillRead] = useState(5); // limit for planned/will-read
+  const [visibleReading, setVisibleReading] = useState(5);
+  const [visibleWillRead, setVisibleWillRead] = useState(5);
   const [searchTerm, setSearchTerm] = useState("");
+  const [selectedGenre, setSelectedGenre] = useState("All");
 
   if (loading) {
-    return <p className="text-center text-lg">Loading manga...</p>;
+    return (
+      <div className="pb-10 px-4 md:px-10">
+        <h2
+          className="text-center text-[22px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
+          style={fontStyle}
+        >
+          Manga List
+        </h2>
+        <p className="text-center text-lg">Loading manga...</p>;
+      </div>
+    );
   }
 
-  // fuzzy search
   const fuzzyMatch = (str, query) => {
     if (!str || !query) return false;
     str = str.toLowerCase();
@@ -24,13 +34,20 @@ const MangaList = () => {
     return [...query].every((char) => str.includes(char));
   };
 
-  const filteredMangas = searchTerm
-    ? mangaList.filter(
-      (manga) => manga.title && fuzzyMatch(manga.title, searchTerm)
-    )
-    : mangaList;
+  const filteredMangas = mangaList.filter((manga) => {
+    const matchesSearch = searchTerm
+      ? manga.title && fuzzyMatch(manga.title, searchTerm)
+      : true;
 
-  // split by status
+    const matchesGenre =
+      selectedGenre === "All"
+        ? true
+        : manga.genres?.some(
+          (genre) => genre.toLowerCase() === selectedGenre.toLowerCase()
+        );
+
+    return matchesSearch && matchesGenre;
+  });
   const readingMangas = filteredMangas.filter(
     (manga) => manga.status === "reading"
   );
@@ -38,17 +55,27 @@ const MangaList = () => {
     (manga) => manga.status !== "reading"
   );
 
+  const genres = [
+    "All",
+    "Romance",
+    "Sports",
+    "Comedy",
+    "Drama",
+    "Psychological",
+    "BL",
+    "Shoujo"
+  ];
+
   return (
     <div className="pb-10 px-4 md:px-10">
       <h2
         className="text-center text-[22px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]"
         style={fontStyle}
       >
-        Manga List 
+        Manga List
       </h2>
 
       <div className="flex flex-col items-center justify-center">
-        {/* Search bar */}
         <input
           type="text"
           placeholder="Search manga..."
@@ -58,15 +85,31 @@ const MangaList = () => {
              focus:outline-none focus:ring-2 focus:ring-black focus:border-black
              placeholder-gray-500 placeholder:italic transition-all duration-200"
         />
-
-
-        {/* READING LIST */}
-        <h3 className="text-center text-[30px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[32px]"
-        >To-be Read</h3>
-        <div className="py-3 flex flex-wrap gap-3 justify-center">
-          {readingMangas.slice(0, visibleReading).map((manga, index) => (
-            <MangaCard key={`reading-${index}`} manga={manga} />
+        <div className="flex flex-wrap gap-2 mb-6 justify-center">
+          {genres.map((genre) => (
+            <button
+              key={genre}
+              onClick={() => setSelectedGenre(genre)}
+              className={`px-4 py-2 rounded-full border transition-all duration-200 ${selectedGenre === genre
+                ? "bg-black text-white border-black"
+                : "bg-white text-black border-gray-400 hover:bg-gray-100"
+                }`}
+            >
+              {genre}
+            </button>
           ))}
+        </div>
+        <h3 className="text-center text-[30px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[32px]">
+          To-be Read
+        </h3>
+        <div className="py-3 flex flex-wrap gap-3 justify-center">
+          {readingMangas.length > 0 ? (
+            readingMangas.slice(0, visibleReading).map((manga, index) => (
+              <MangaCard key={`reading-${index}`} manga={manga} />
+            ))
+          ) : (
+            <p className="text-gray-600 italic">None found..</p>
+          )}
         </div>
         {visibleReading < readingMangas.length && (
           <button
@@ -76,13 +119,17 @@ const MangaList = () => {
             Load More
           </button>
         )}
-
-        {/* WILL READ LIST */}
-        <h3 className="text-center text-[30px] font-bold mb-2 mt-4 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[32px]">Read / Fav list</h3>
+        <h3 className="text-center text-[30px] font-bold mb-2 mt-4 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[32px]">
+          Read / Fav list
+        </h3>
         <div className="py-3 flex flex-wrap gap-3 justify-center">
-          {willReadMangas.slice(0, visibleWillRead).map((manga, index) => (
-            <MangaCard key={`willread-${index}`} manga={manga} />
-          ))}
+          {willReadMangas.length > 0 ? (
+            willReadMangas.slice(0, visibleWillRead).map((manga, index) => (
+              <MangaCard key={`willread-${index}`} manga={manga} />
+            ))
+          ) : (
+            <p className="text-gray-600 italic">None found..</p>
+          )}
         </div>
         {visibleWillRead < willReadMangas.length && (
           <button

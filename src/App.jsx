@@ -14,6 +14,7 @@ import Links from "./pages/Links";
 import Shows from "./pages/Shows";
 import Movies from "./pages/Movies";
 import DividerBot from "./comp/dividerBot";
+import Music from "./pages/Music";
 
 export default function App() {
   return (
@@ -117,6 +118,15 @@ export default function App() {
                     >
                       Movies
                     </NavLink>
+                    <NavLink
+                      to="/music  "
+                      className={({ isActive }) =>
+                        `px-2 py-2 md:px-4 md:py-1 transition text-center text-sm md:text-base ${isActive ? "bg-[#fff] text-[#000]" : ""
+                        }`
+                      }
+                    >
+                      Music
+                    </NavLink>
                   </div>
                 </div>
               </nav>
@@ -139,6 +149,7 @@ export default function App() {
                 <Route path="/links" element={<Links />} />
                 <Route path="/shows" element={<Shows />} />
                 <Route path="/movies" element={<Movies />} />
+                <Route path="/music" element={<Music />} />
               </Routes>
             </MangaProvider>
           </div>

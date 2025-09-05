@@ -9,7 +9,15 @@ const Shows = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(10);
 
-  if (loading) return <p className="text-center mt-4">Loading shows...</p>;
+  if (loading) return
+  <div>
+    <div className="pb-10 px-4 md:px-10">
+      <h2 className="text-center text-[22px] font-bold mb-2 capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
+        Shows
+      </h2>
+      <p className="text-center mt-4">Loading shows...</p>
+    </div>
+  </div>;
   if (!data?.shows || data.shows.length === 0)
     return <p className="text-center text-gray-400">No shows available.</p>;
 

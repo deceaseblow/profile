@@ -1,5 +1,5 @@
 import { useState } from "react";
-import ShowsCard from "../comp/ShowsCard"; 
+import ShowsCard from "../comp/ShowsCard";
 import { useAppData } from "../context/AppDataContext";
 const fontStyle = {
   fontFamily: "'antsValley', sans-serif"
@@ -9,7 +9,15 @@ const Movies = () => {
   const [searchTerm, setSearchTerm] = useState("");
   const [visibleCount, setVisibleCount] = useState(10);
 
-  if (loading) return <p className="text-center mt-4">Loading movies...</p>;
+  if (loading) return
+  <div>
+    <div className="pb-10 px-4 md:px-10">
+      <h2 className="text-center text-[22px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
+        Movies
+      </h2>
+      <p className="text-center mt-4">Loading movies...</p>
+    </div>
+  </div>;
   if (!data?.movies || data.movies.length === 0)
     return <p className="text-center text-gray-400">No movies available.</p>;
 
@@ -29,9 +37,9 @@ const Movies = () => {
 
   return (
     <div className="pb-10 px-4 md:px-10">
-     <h2 className="text-center text-[22px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
-      Movies
-    </h2>
+      <h2 className="text-center text-[22px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
+        Movies
+      </h2>
       <div className="flex flex-col items-center ">
 
         <input
@@ -39,7 +47,7 @@ const Movies = () => {
           placeholder="Search movies..."
           value={searchTerm}
           onChange={(e) => setSearchTerm(e.target.value)}
-        className="my-6 w-72 sm:w-80 px-4 py-2 rounded-full border border-gray-400 bg-white text-black font-mono text-sm sm:text-base
+          className="my-6 w-72 sm:w-80 px-4 py-2 rounded-full border border-gray-400 bg-white text-black font-mono text-sm sm:text-base
              focus:outline-none focus:ring-2 focus:ring-black focus:border-black
              placeholder-gray-500 placeholder:italic transition-all duration-200"
         />
