@@ -87,6 +87,29 @@
     }
   ],
   "list": [],
+  "blogs": [
+    {
+      "id": 1,
+      "title": "i found my disease",
+      "date": "2025-09-10",
+      "image": "https://preview.redd.it/pls-gib-to-me-facts-lore-about-miku-v0-sfbyk901c82d1.jpeg?auto=webp&s=76f2901d11020506b318bb35110aa8cc94453862",
+      "content": "im a fucking monstahhh! "
+    },
+    {
+      "id":2,
+      "title":"what the fuck?",
+      "date":"2025-09-10",
+      "image":"https://daladybug.productions/wp-content/uploads/2016/07/lain-bear-suit.png",
+      "content":"im lain!"
+    },
+     {
+      "id":3,
+      "title":"i cant do this",
+      "date":"2025-09-10",
+      "image":"https://daladybug.productions/wp-content/uploads/2016/07/lain-bear-suit.png",
+      "content":"why are people so damn stoopid"
+    }
+  ],
   "animes": [
     {
       "title": "Closer",
@@ -902,6 +925,47 @@
       "link": "https://batotoo.com/series/107840/sadistic-beauty-bl-sidestory"
     },
     {
+      "title": "Who made me a princess",
+      "author": "Plutus",
+      "year": "2017",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Fantasy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/8ce/8ce525781c27f7a755bc425dd8a607435b5441d2_420_610_274297.jpg",
+      "link": "https://bato.si/title/72873-who-made-me-a-princess-official"
+    },
+    {
+      "title": "My introverted boy",
+      "author": "Na Jakka",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/75c/75c59bc9dbc9a89ddf9e26eb7d9a26f15187a2d4_690_1000_425288.jpeg",
+      "link": "https://bato.si/title/134426-my-introverted-boy"
+    },
+    {
+      "title": "The Secret to Winning Over Unrequited Love",
+      "author": "Saerangdepi",
+      "year": "2025",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Slice of Life",
+        "College Life"
+      ],
+      "image": "https://bato.si/media/mbim/47c/47c07312a09bf60678cf70943b041bbb9d3c6ce1_600_947_97836.webp",
+      "link": "https://bato.si/title/202878-the-secret-to-winning-over-unrequited-love-myth-toons"
+    },
+    {
       "title": "Neon Genesis Evangelion",
       "author": "Gainax, Sadamoto yoshiyuki",
       "year": "2014",
@@ -1505,7 +1569,7 @@
       "genres": [
         "Romance",
         "Drama",
-        "BL"
+        "Shoujo"
       ],
       "status": "reading",
       "comment": "",
@@ -1718,6 +1782,20 @@
       "comment": "reading",
       "image": "https://bato.si/media/mbim/9ab/9ab860364e8391fc180226e5eff8d423900d8b08_600_800_63482.webp",
       "link": "https://bato.si/title/99393-eternal-covenant"
+    },
+    {
+      "title": "Eternal Love",
+      "author": "Zhuyi",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Fantasy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/874/874982df88a85864b43fd9c9859426dd3ddc83ab_1440_1983_524930.jpeg",
+      "link": "https://bato.si/title/98136-eternal-love"
     },
     {
       "title": "Feel my benefit",
@@ -2263,7 +2341,7 @@
       "status": "completed",
       "comment": "",
       "image": "https://bato.si/media/mbim/aaf/aaf109b9a636a75c427a10db34217e79d6a7b081_480_623_130724.webp",
-      "link": "https://www.webtoons.com/en/romance/operation-true-love/list?title_no=4465"
+      "link": "https://bato.si/title/204574-operation-true-love-nyx-scans"
     },
     {
       "title": "Virtual Strangers",

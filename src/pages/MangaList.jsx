@@ -58,11 +58,11 @@ const MangaList = () => {
   const genres = [
     "All",
     "Romance",
-    "Sports",
     "Comedy",
     "Drama",
     "Psychological",
     "BL",
+    "Sports",
     "Shoujo"
   ];
 
