@@ -61,9 +61,14 @@ const MangaList = () => {
     "Comedy",
     "Drama",
     "Psychological",
-    "BL",
+    "Horror",
+    "GL",
+    "BL",   
+    "Shoujo",
     "Sports",
-    "Shoujo"
+    "Supernatural",
+    "Video Games",
+    "College Life"
   ];
 
   return (
