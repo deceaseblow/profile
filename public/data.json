@@ -96,29 +96,32 @@
       "content": "im a fucking monstahhh! "
     },
     {
-      "id":2,
-      "title":"what the fuck?",
-      "date":"2025-09-10",
-      "image":"https://daladybug.productions/wp-content/uploads/2016/07/lain-bear-suit.png",
-      "content":"im lain!"
+      "id": 2,
+      "title": "what the fuck?",
+      "date": "2025-09-10",
+      "image": "https://daladybug.productions/wp-content/uploads/2016/07/lain-bear-suit.png",
+      "content": "im lain!"
     },
-     {
-      "id":3,
-      "title":"i cant do this",
-      "date":"2025-09-10",
-      "image":"https://daladybug.productions/wp-content/uploads/2016/07/lain-bear-suit.png",
-      "content":"why are people so damn stoopid"
+    {
+      "id": 3,
+      "title": "i cant do this",
+      "date": "2025-09-10",
+      "image": "https://daladybug.productions/wp-content/uploads/2016/07/lain-bear-suit.png",
+      "content": "why are people so damn stoopid"
     }
   ],
   "animes": [
+
     {
-      "title": "Closer",
-      "year": 2004,
+      "title": "Alien Stage",
+      "year": 2014,
       "genres": [
-        "Drama",
-        "Romance"
+        "Romance",
+        "Tragedy",
+        "Sci-fi"
       ],
       "status": "watched",
+      "image": "https://i.pinimg.com/736x/9b/7d/a3/9b7da3a0d84ee20bc6d42ad5cc78b7d1.jpg",
       "comment": ""
     }
   ],
@@ -133,14 +136,6 @@
       "status": "on-hold",
       "comment": "",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/88c8cf7ac56b4c176cb9b768cd0cbe3e636b11ac293464e0d7e242912fca0d0c.jpg"
-    },
-    {
-      "title": "",
-      "year": 2007,
-      "genres": [],
-      "status": "",
-      "comment": "",
-      "image": ""
     }
   ],
   "shows": [
@@ -168,6 +163,21 @@
       "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p185554_b_v8_bk.jpg"
     },
     {
+      "title": "Arcane",
+      "year": 2021,
+      "genres": [
+        "Animated Show",
+        "Action",
+        "Adventure",
+        "Drama",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://wiki.leagueoflegends.com/en-us/images/thumb/Arcane_2024_Logo.jpg/224px-Arcane_2024_Logo.jpg?e35a3"
+    },
+    {
       "title": "MTV Downtown",
       "year": 2000,
       "genres": [
@@ -176,6 +186,18 @@
       "status": "wacthed",
       "comment": "",
       "image": "https://m.media-amazon.com/images/M/MV5BYmYzYWU0Y2ItMzhkZS00NDY5LWJmYTQtZTg2MGJjYmRmOTkyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Le Mixte",
+      "year": 2021,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Highschool Life"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BOGFhNTQwYTQtOGMyZS00YTdjLTkwNGUtYTIyMDgyNTk2MDg2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
       "title": "Normal People",
@@ -1347,13 +1369,28 @@
       "link": "https://bato.to/series/91797/fundari-kettari-aishitari"
     },
     {
+      "title": "Punch Drunk Love",
+      "author": "Moscareto",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Office Workers",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k09.mbwww.org/thumb/W600/ampi/27a/27af5785a76eae642ef06e153e17cc119bf27a9d_1120_1600_433427.jpeg",
+      "link": "https://xbato.com/series/99627"
+    },
+    {
       "title": "Under the Green Light : In Dreams",
       "author": "Mika Yamamori",
       "year": "2021",
       "genres": [
         "Romance",
-        "Slice of Life",
-        "School life"
+        "Psychological",
+        "BL"
       ],
       "status": "reading",
       "comment": "",

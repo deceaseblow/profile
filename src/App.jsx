@@ -149,7 +149,7 @@ export default function App() {
                 <Route path="/links" element={<Links />} />
                 <Route path="/shows" element={<Shows />} />
                 <Route path="/movies" element={<Movies />} />
-                <Route path="/music" element={<Music />} />
+            {/* <Route path="/music" element={<Music />} /> */} 
               </Routes>
             </MangaProvider>
           </div>

@@ -5,7 +5,7 @@ const fontStyle = {
   fontFamily: "'antsValley', sans-serif"
 };
 const iconMap = {
-  FaGithub: <FaGithub className="text-2xl hover:text-black transition" />,
+  FaGithub: <FaGithub className="text-2xl hover:text-purple-800 transition" />,
   FaPinterest: <FaPinterest className="text-2xl hover:text-red-600 transition" />,
   FaCarrd: <SiCarrd className="text-2xl hover:text-blue-500 transition" />,
 };
