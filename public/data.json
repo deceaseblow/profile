@@ -111,7 +111,6 @@
     }
   ],
   "animes": [
-
     {
       "title": "Alien Stage",
       "year": 2014,
@@ -1614,6 +1613,58 @@
       "link": "https://xbato.com/series/143047/how-i-met-my-soulmate-official"
     },
     {
+      "title": "Tadano Renai Nanka de Kikkonai",
+      "author": "Fukita Mafuyu",
+      "year": 2020,
+      "genres": [
+        "Romance",
+        "Office Workers"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n03.mbopg.org/thumb/W600/ampi/88d/88df68fe061615d4d368b221cee93d59e0fe79ae_2881_4096_2535906.jpg",
+      "link": "https://bato.to/title/81620"
+    },
+    {
+      "title": "Isso Anata ga Todome wo Sashite",
+      "author": "Seto Megumu",
+      "year": 2023,
+      "genres": [
+        "College Life",
+        "Romance",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n08.mbqtj.org/thumb/W600/ampi/4fc/4fc90fa90edf424739c9a8c46d259f7423650450_1114_1600_429327.jpeg",
+      "link": "https://xbato.com/title/153325"
+    },
+    {
+      "title": "Living no matsunaga san",
+      "author": "Iwashita keiko",
+      "year": 2023,
+      "genres": [
+        "Romance",
+        "Shoujo",
+        "School life",
+        "Comedy"
+      ],
+      "image": "https://n25.mbzcp.org/thumb/W600/ampi/24d/24d2a8a6673ef4bf7c410d5a5d989c2873db7cac_1056_1503_593244.jpeg",
+      "link": "https://bato.to/title/66036-living-no-matsunaga-san-official"
+    },
+    {
+      "title": " Nagisa-kun wa Onee-kei",
+      "author": "NAKAHURU Ryo",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "Office Workers",
+        "Shoujo"
+      ],
+      "image": "https://n10.mbwbm.org/thumb/W600/ampi/1e5/1e5599ce6278fbb1e72b386cc4a55932b3c9554b_1242_1763_525957.jpeg",
+      "link": "https://bato.to/title/119831-nagisa-kun-wa-onee-kei"
+    },
+    {
       "title": "Nana",
       "author": "Ai Yazawa",
       "year": 2000,
@@ -1893,6 +1944,43 @@
       "comment": "",
       "image": "https://bato.si/media/ampi/2aa/2aa5f52ce3c5440b54a70a608c31e24cd4cd72c9_720_1035_129187.jpeg",
       "link": "https://bato.si/title/118167-betrayal-of-dignity"
+    },
+    {
+      "title": "Okuremashite Seishun",
+      "author": "KIRA Hanamuru",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "School life"
+      ],
+      "image": "https://n07.mbwww.org/media/mbim/9bb/9bb85baad80d7b28835275a4cde9aaca0659ba14_600_921_68936.webp",
+      "link": "https://bato.to/title/141245-okuremashite-seishun"
+    },
+    {
+      "title": "Ore no oniku-chan",
+      "author": "Mochino Kome",
+      "year": "2024",
+      "genres": [
+        "Comedy",
+        "BL",
+        "Romance"
+      ],
+      "link": "https://bato.to/title/70541-ore-no-oniku-chan",
+      "image": "https://k05.mbopg.org/thumb/W600/ampi/c3e/c3e96a2a3ea4d2d324c45e31376ab9909f83a97d_1080_1534_286582.jpeg"
+    },
+    {
+      "title": "Koi to wa Baka de Aru Koto da",
+      "author": "Ogeretsu tanaka",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "BL",
+        "School life",
+        "Slice of Life"
+      ],
+      "image": "https://n00.mbxma.org/thumb/W600/ampi/d4d/d4d1db7cbe4168ac3dec2e206d64a2a6eb2ad3b4_200_310_26465.jpg",
+      "link":"https://bato.to/title/30428-koi-to-wa-baka-de-aru-koto-da"
     },
     {
       "title": "My dear Nemesis",
