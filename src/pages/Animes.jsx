@@ -36,6 +36,7 @@ export default function Animes() {
         >
           Animes
         </h2>
+        
         <div className="text-center">
           <div className="h-80 flex items-center justify-center mb-6 sm:h-160">
             <h1>Nothing to see here yet...</h1>
@@ -94,6 +95,11 @@ export default function Animes() {
       >
         Animes
       </h2>
+       <p className="text-center text-[22px] font-bold text-black md:text-start md:text-[20px]">
+        Currently {filteredAnimes.length === 0 ? 'no' : filteredAnimes.length}{" "}
+        {filteredAnimes.length === 1 ? 'anime is' : 'animes are'} found for your search.
+      </p>
+
 
       <div className="flex flex-col items-center">
         {/* Search */}

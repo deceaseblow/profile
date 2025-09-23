@@ -41,6 +41,11 @@ const Shows = () => {
       <h2 className="text-center text-[22px] font-bold mb-2  capitalize text-black tracking-wider border-b-4 border-black pb-2 md:text-start md:text-[40px]" style={fontStyle}>
         Shows
       </h2>
+      <p className="text-center text-[22px] font-bold text-black md:text-start md:text-[20px]">
+        Currently {filteredShows.length === 0 ? 'no' : filteredShows.length}{" "}
+        {filteredShows.length === 1 ? 'show is' : 'shows are'} found for your search.
+      </p>
+
       <div className="flex flex-col items-center ">
 
         <input

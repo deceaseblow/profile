@@ -118,7 +118,7 @@ export default function App() {
                     >
                       Movies
                     </NavLink>
-                    <NavLink
+                    {/*<NavLink 
                       to="/music  "
                       className={({ isActive }) =>
                         `px-2 py-2 md:px-4 md:py-1 transition text-center text-sm md:text-base ${isActive ? "bg-[#fff] text-[#000]" : ""
@@ -126,7 +126,7 @@ export default function App() {
                       }
                     >
                       Music
-                    </NavLink>
+                    </NavLink> */}
                   </div>
                 </div>
               </nav>

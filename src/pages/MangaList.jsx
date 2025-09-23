@@ -63,7 +63,7 @@ const MangaList = () => {
     "Psychological",
     "Horror",
     "GL",
-    "BL",   
+    "BL",
     "Shoujo",
     "Sports",
     "Supernatural",
@@ -79,6 +79,12 @@ const MangaList = () => {
       >
         Manga List
       </h2>
+      <p className="text-center text-[22px] font-bold text-black md:text-start md:text-[20px]">
+        Currently {filteredMangas.length === 0 ? 'no' : filteredMangas.length}{" "}
+        {filteredMangas.length === 1 ? 'manga is' : 'mangas are'} found for your search.
+      </p>
+    
+
 
       <div className="flex flex-col items-center justify-center">
         <input
@@ -90,7 +96,7 @@ const MangaList = () => {
              focus:outline-none focus:ring-2 focus:ring-black focus:border-black
              placeholder-gray-500 placeholder:italic transition-all duration-200"
         />
-        <div className="flex flex-wrap gap-2 mb-6 justify-center">
+        <div className="flex flex-wrap gap-2 mb-6 justify-center  ">
           {genres.map((genre) => (
             <button
               key={genre}

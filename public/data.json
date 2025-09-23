@@ -135,6 +135,556 @@
       "status": "on-hold",
       "comment": "",
       "image": "https://m.media-amazon.com/images/S/pv-target-images/88c8cf7ac56b4c176cb9b768cd0cbe3e636b11ac293464e0d7e242912fca0d0c.jpg"
+    },
+    {
+      "title": "No Strings Attached",
+      "year": 2011,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "status": "watched",
+      "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2F8%2Fgracenote%2F8c1486a5bffee6df884228a5eeb1ffd3.jpg"
+    },
+    {
+      "title": "Pride and Prejudice",
+      "year": 2005,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTA1NDQ3NTcyOTNeQTJeQWpwZ15BbWU3MDA0MzA4MzE@._V1_.jpg"
+    },
+    {
+      "title": "Atonement",
+      "year": 2007,
+      "genres": [
+        "Romance",
+        "Drama",
+        "War"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BZmQ5ZjZlMzMtODA1ZS00NTNiLWIzOTYtOTQyYjQ2YWQxMTA1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "The Fast and the Furious",
+      "year": 2001,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/54/Fast_and_the_furious_poster.jpg"
+    },
+    {
+      "title": "2 Fast 2 Furious",
+      "year": 2003,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "status": "watched",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2-fast-2-furious-1623700657.jpeg?resize=980:*"
+    },
+    {
+      "title": "Mr. & Mrs. Smith",
+      "year": 2005,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fd/Mr_and_Mrs_Smith_poster.png"
+    },
+    {
+      "title": "Zootopia",
+      "year": 2016,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Comedy"
+      ],
+      "status": "watched",
+      "image": "https://contentcafe2.btol.com/ContentCafe/Jacket.aspx?userID=MLKJ0981&password=CC08155&Value=786936850291&content=L&Return=1&Type=L"
+    },
+    {
+      "title": "She's All That",
+      "year": 1999,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5d/Shes_All_That.jpg"
+    },
+    {
+      "title": "Donnie Darko",
+      "year": 2001,
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Sci-Fi"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/d/db/Donnie_Darko_poster.jpg"
+    },
+    {
+      "title": "He's Just Not That Into You",
+      "year": 2009,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTY5MTUyNDgwMF5BMl5BanBnXkFtZTcwNzYzMDQyMg@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Before I Fall",
+      "year": 2017,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Mystery"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BNDYwOTY0MDI2OV5BMl5BanBnXkFtZTgwOTE5NzM2MDI@._V1_.jpg"
+    },
+    {
+      "title": "Little Miss Sunshine",
+      "year": 2006,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTgzNTgzODU0NV5BMl5BanBnXkFtZTcwMjEyMjMzMQ@@._V1_.jpg"
+    },
+    {
+      "title": "The Intouchables",
+      "year": 2011,
+      "genres": [
+        "Biography",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://resizing.flixster.com/QnjWpd9hSaQ5lgLB45Fw56OSKGM=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p9096998_v_v12_bm.jpg"
+    },
+    {
+      "title": "Children of Heaven",
+      "year": 1997,
+      "genres": [
+        "Drama",
+        "Family"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWZlMjNhNzgtZGRhOS00Y2U5LThjOTctODNjZTI0ZTBiYzBhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "The Double Life of Veronique",
+      "year": 1991,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Music"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/81/The_Double_Life_of_V%C3%A9ronique.jpg"
+    },
+    {
+      "title": "Buffalo '66",
+      "year": 1998,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b9/Buffalo_sixty_six_ver1.jpg/250px-Buffalo_sixty_six_ver1.jpg"
+    },
+    {
+      "title": "Look Back",
+      "year": 2024,
+      "genres": [
+        "Animation",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/77/Look_Back_volume_cover.jpg/250px-Look_Back_volume_cover.jpg"
+    },
+    {
+      "title": "Gia",
+      "year": 1998,
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://mediaproxy.tvtropes.org/width/1200/https://static.tvtropes.org/pmwiki/pub/images/hxejmc4b6l2bt3l0pbwto1ffhmq.jpg"
+    },
+    {
+      "title": "Pink Skies Ahead",
+      "year": 2020,
+      "genres": [
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQypkU-QEmtWsoWmUS0bJyQbg6EzsrWt0KH6Q&s"
+    },
+    {
+      "title": "Dinner in America",
+      "year": 2020,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Music"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/5/5b/Dinner_in_America.jpg"
+    },
+    {
+      "year": 2001,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/S/pv-target-images/6ca1fe93c3c31faff537b4f85995661a81a9e07332fdffc52f2a285b1c09aa0a.jpg"
+    },
+    {
+      "title": "Her",
+      "year": 2013,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BMjA1Nzk0OTM2OF5BMl5BanBnXkFtZTgwNjU2NjEwMDE@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "The Perks of Being a Wallflower",
+      "year": 2012,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/I/71fLFQge1hL._UF894,1000_QL80_.jpg"
+    },
+    {
+      "title": "Requiem for a Dream",
+      "year": 2000,
+      "genres": [
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/92/Requiem_for_a_dream.jpg"
+    },
+    {
+      "title": "Babylon",
+      "year": 2022,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "History"
+      ],
+      "status": "watched",
+      "image": "https://images.plex.tv/photo?size=large-1920&scale=1&url=https%3A%2F%2Fmetadata-static.plex.tv%2F2%2Fgracenote%2F217ffbc0a1f32a07dbc9089387b54c79.jpg"
+    },
+    {
+      "title": "Demolition",
+      "year": 2015,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://play-lh.googleusercontent.com/dhHP8U0xlSVBfG1JbWgnDfcEDTHRbmMHdinSi3db5iU6hMHZGwTYjmWN0VdgVyHdpT3P"
+    },
+    {
+      "title": "Like Minds",
+      "year": 2006,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "status": "watched",
+      "image": "https://a.ltrbxd.com/resized/film-poster/4/2/1/5/8/42158-like-minds-0-230-0-345-crop.jpg?v=bd9f2a6bb9"
+    },
+    {
+      "title": "Eternal Sunshine of the Spotless Mind",
+      "year": 2004,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Sci-Fi"
+      ],
+      "status": "watched",
+      "image": "https://static.thcdn.com/images/small/original/productimg/0/960/960/80/93880-1424283852-178990.jpg"
+    },
+    {
+      "title": "Oz the Great and Powerful",
+      "year": 2013,
+      "genres": [
+        "Adventure",
+        "Family",
+        "Fantasy"
+      ],
+      "status": "watched",
+      "image": "https://consequence.net/wp-content/uploads/2014/07/oz.jpg?quality=80"
+    },
+    {
+      "title": "The Art of Getting By",
+      "year": 2011,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://images.plex.tv/photo?size=large-1280&url=https%3A%2F%2Fmetadata-static.plex.tv%2Ff%2Fgracenote%2Fff152c18b1fbb3ac60313330735a314f.jpg"
+    },
+    {
+      "title": "Keith",
+      "year": 2008,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjU2NTI5ZjAtYTk2NS00ZjVkLWEyYzQtMDdlYjM1ZDA2MjcwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Detachment",
+      "year": 2011,
+      "genres": [
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTM3NzQzMDA5Ml5BMl5BanBnXkFtZTcwODA5NTcyNw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Superbad",
+      "year": 2007,
+      "genres": [
+        "Comedy"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjk0MzdlZGEtNTRkOC00ZDRiLWJkYjAtMzUzYTRiNzk1YTViXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Lolita",
+      "year": 1997,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p19943_p_v8_ay.jpg"
+    },
+    {
+      "title": "Last Days",
+      "year": 2005,
+      "genres": [
+        "Drama",
+        "Music"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BODk1OTUyZmYtNTQxYS00Y2FhLTliNmUtNTM2OTcwZjgzMzI0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "The Machinist",
+      "year": 2004,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/The_Machinist_poster.JPG"
+    },
+    {
+      "title": "Augusta, Gone",
+      "year": 2006,
+      "genres": [
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWNkMzgzMzYtMjUyMi00YWNjLWJmZDgtY2RmNTlhZDg4ODBkXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Spider-Man",
+      "year": 2002,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWM0OWVmNTEtNWVkOS00MzgyLTkyMzgtMmE2ZTZiNjY4MmFiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Spider-Man 2",
+      "year": 2004,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGQ0YTQyYTgtNWI2YS00NTE2LWJmNDItNTFlMTUwNmFlZTM0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Spider-Man 3",
+      "year": 2007,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BODE2NzNhMDctYjUzMC00Y2M5LWI2Y2EtODJkZTFjN2Y5ODlmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Fear",
+      "year": 1996,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Fearfilmposter.jpg/250px-Fearfilmposter.jpg"
+    },
+    {
+      "title": "Girl, Interrupted",
+      "year": 1999,
+      "genres": [
+        "Biography",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BZWVhYzdiMTQtMzJkMC00YWEwLTkyNDEtNzkwMGQ3NTBhMzExXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Life as a House",
+      "year": 2001,
+      "genres": [
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BMWI5ZTRmYTUtMGQxYy00N2UxLWJmOGEtM2Y0ODNjYTViZGMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Call Me by Your Name",
+      "year": 2017,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/c/c9/CallMeByYourName2017.png"
+    },
+    {
+      "title": "Shutter Island",
+      "year": 2010,
+      "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWWR6_rXSMptv4oHSI3jb2-SBS9rGcZsBtng&s"
+    },
+    {
+      "title": "Black Swan",
+      "year": 2010,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzY2NzI4OTE5MF5BMl5BanBnXkFtZTcwMjMyNDY4Mw@@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Blue Valentine",
+      "year": 2010,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BMDJiZmY4OWEtOGE1ZS00YTY0LThjY2EtNDFjNDViY2NjZjc0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "title": "Amélie",
+      "year": 2001,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BOTNmYzY0MWQtZGZmNy00Y2Y4LWFmMDQtMTZjYTdiYzEwZGQ2XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Gladiator",
+      "year": 2000,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "status": "watched",
+      "image": "https://upload.wikimedia.org/wikipedia/en/f/fb/Gladiator_%282000_film_poster%29.png"
+    },
+    {
+      "title": "Parasite",
+      "year": 2019,
+      "genres": [
+        "Drama",
+        "Thriller",
+        "Comedy"
+      ],
+      "status": "watched",
+      "image": "https://m.media-amazon.com/images/M/MV5BYjk1Y2U4MjQtY2ZiNS00OWQyLWI3MmYtZWUwNmRjYWRiNWNhXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Léon The Professional",
+      "year": "1994",
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNGRkYTNhOWQtYmI0Ni00MjZhLWJmMzAtMTA2Mjg4NGNiNDU0XkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "title": "Van Gogh",
+      "year": "1991",
+      "genres": [
+        "Biography",
+        "Drama",
+        "Romance"
+      ],
+      "status": "on-hold",
+      "comment": "",
+      "image": "https://fr.web.img2.acsta.net/pictures/21/10/07/17/50/2557885.jpg"
+    },
+    {
+      "title": "",
+      "year": "",
+      "genres": [],
+      "status": "",
+      "comment": "",
+      "image": ""
     }
   ],
   "shows": [
@@ -622,20 +1172,30 @@
       "image": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQYXwXh0dSzEAPcgBiwfvYPLiBFNSLTeJunfxu7yimmZK4mdy600jcAsTf110fTV7kE-NLi"
     },
     {
-      "title": "",
-      "year": 2007,
-      "genres": [],
-      "status": "",
+      "title": "Sweetpea",
+      "year": 2024,
+      "genres": [
+        "Psychological Thriller",
+        "Dark Comedy",
+        "Drama"
+      ],
+      "status": "on-hold",
       "comment": "",
-      "image": ""
+      "image": "https://static0.srcdn.com/wordpress/wp-content/uploads/2024/09/sweetpea-2024-poster.jpg"
     },
     {
-      "title": "",
-      "year": 2007,
-      "genres": [],
-      "status": "",
+      "title": "Yellow jackets",
+      "year": 2021,
+      "genres": [
+        "Thriller",
+        "Survival",
+        "Horror",
+        "Mystery",
+        "Psychological"
+      ],
+      "status": "on-hold",
       "comment": "",
-      "image": ""
+      "image": "https://resizing.flixster.com/-XZ AfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p20745547_b_v13_ai.jpg"
     },
     {
       "title": "",
@@ -1946,7 +2506,7 @@
       "link": "https://bato.si/title/118167-betrayal-of-dignity"
     },
     {
-      "title":"Inside Mari",
+      "title": "Inside Mari",
       "author": "Shinichi Sakamoto",
       "year": "2012",
       "genres": [
@@ -1957,8 +2517,8 @@
       ],
       "status": "reading",
       "comment": "",
-      "image":"https://m.media-amazon.com/images/I/915iJ+j4NzL._UF894,1000_QL80_.jpg",
-      "link":"https://xbato.com/series/8665/boku-wa-mari-no-naka"
+      "image": "https://m.media-amazon.com/images/I/915iJ+j4NzL._UF894,1000_QL80_.jpg",
+      "link": "https://xbato.com/series/8665/boku-wa-mari-no-naka"
     },
     {
       "title": "Okuremashite Seishun",
@@ -1969,8 +2529,409 @@
         "Slice of Life",
         "School life"
       ],
+      "status": "reading",
+      "comment": "",
       "image": "https://n07.mbwww.org/media/mbim/9bb/9bb85baad80d7b28835275a4cde9aaca0659ba14_600_921_68936.webp",
       "link": "https://bato.to/title/141245-okuremashite-seishun"
+    },
+    {
+      "title": "Adabana",
+      "author": "NON",
+      "year": "2020",
+      "genres": [
+        "Psychological Thriller",
+        "Psychological",
+        "Crime",
+        "Tragedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/I/81ivQibBD9L._UF1000,1000_QL80_.jpg",
+      "link": "https://mangadex.org/title/3d0c83fd-2fc9-4f00-93f3-bd134f755e4b/adabana"
+    },
+    {
+      "title": "Bones and petals",
+      "author": "MIRO",
+      "year": "2024",
+      "genres": [
+        "Supernatural",
+        "Vampires",
+        "BL",
+        "Romance"
+      ],
+      "comment": "",
+      "status": "reading",
+      "link": "https://mangadex.org/title/27847cea-ce86-4a3f-b81d-21c1761328eb/bones-and-petals",
+      "image": "https://n16.mbeaj.org/thumb/W600/ampi/248/248ab98ba28ee5ca984f61e809a763af96e11bcc_600_800_92219.jpeg"
+    },
+    {
+      "title": "Dreaming Freedom",
+      "author": "2L",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Supernatural",
+        "Romance",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/f3d/f3d469100c7e197efcdb1e172a3c79a3cd251b1d_600_1042_46768.webp",
+      "link": "https://bato.si/title/141654-dreaming-freedom-official  "
+    },
+    {
+      "title": "Trapped",
+      "author": "Hae Mu",
+      "year": "2019",
+      "genres": [
+        "Psychological Thriller",
+        "Romance",
+        "Vampires",
+        "Mystery",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/d0b/d0ba4051f614e7f7f939f0b4cc58629fef3a8e3b_300_476_27831.jpeg  ",
+      "link": "https://bato.si/title/141686-trapped-official"
+    },
+    {
+      "title": "Projection",
+      "author": "Wabi",
+      "year": "2023",
+      "genres": [
+        "BL",
+        "Drama",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/482/482c0cb5a560cc31786fbc23240de50e9b0b0379_600_870_52642.webp",
+      "link": "https://bato.si/title/154735-projection-mosh-scans"
+    },
+    {
+      "title": "Stranger",
+      "author": "Chub",
+      "year": "2023",
+      "genres": [
+        "Crime",
+        "Drama",
+        "BL",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/0a3/0a36bae1f3f64cab76f48c07672715b1ee12c78b_600_863_48256.webp",
+      "link": "https://bato.si/title/186427-stranger-mature-official"
+    },
+    {
+      "title": "Amber alert",
+      "author": "Jane M",
+      "year": "2025",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Action"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/cf9/cf946ae7bb2ca15a53d007548490c5271534e6ca_600_867_86884.webp",
+      "link": "https://bato.si/title/185224-amber-alert-mosh-scans"
+    },
+    {
+      "title": "I don't need a dad",
+      "author": "Cold",
+      "year": "2025",
+      "genres": [
+        "Action",
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/6bc/6bc1c4a0d05bb9debc12b1d676b6fb117304cd63_600_852_83786.webp",
+      "link": "https://bato.si/title/184466-i-don-t-need-a-dad-cupid-scans"
+    },
+    {
+      "title": "After Killing You",
+      "author": "TTangjwi",
+      "year": "2023",
+      "genres": [
+        "Thriller",
+        "BL",
+        "Mystery",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/1c3/1c3381dec54170f59e438fdab620aae55f58bace_840_1120_1030015.jpeg",
+      "link": "https://bato.si/title/148951-after-killing-you"
+    },
+    {
+      "title": "Monochrome Diary",
+      "author": "Reck",
+      "year": "2024",
+      "genres": [
+        "BL",
+        "Romance",
+        "School life",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/8f3/8f3b348aded5542e44183cc7c81ef1328edc3d87_600_900_78346.webp",
+      "link": "https://bato.si/title/185784-monochrome-diary-official"
+    },
+    {
+      "title": "Company and Private Life",
+      "author": "Kanazawa Shinnosuke",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Slice of Life",
+        "Office Workers"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/c92/c925387133fe51eb5fc59e5bb1d73808082a008a_1444_2048_786763.jpeg",
+      "link": "https://bato.si/title/125512-company-and-private-life"
+    },
+    {
+      "title": "Kimi no todoke",
+      "author": "SHIINA Karuho",
+      "year": "2005",
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Romance",
+        "School life",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/bc2/bc23e3dcf238e596077ffca16c96a097ce19bcd9_1067_1600_172345.jpg",
+      "link": "https://bato.si/title/82562-kimi-ni-todoke-official"
+    },
+    {
+      "title": "Yang Ilwoo and I",
+      "author": "Park Nodeok",
+      "year": "2025",
+      "genres": [
+        "Romance",
+        "School life",
+        "Drama",
+        "Psychological",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/1cd/1cd3c075d17325dc23c070b1ac736dd8e69d08cf_600_870_103818.webp",
+      "link": "https://bato.si/title/201968-yang-ilwoo-and-i-kang-byeol"
+    },
+    {
+      "title": "Form of Sympathy",
+      "author": "Park Nodeok",
+      "year": "2019",
+      "genres": [
+        "BL",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/2a1/2a1941db658b9e14547ee981b942ee823fd93d60_720_972_155185.jpg",
+      "link": "https://bato.si/title/85857-form-of-sympathy"
+    },
+    {
+      "title": "The Unfallen Lamb",
+      "author": "Joe",
+      "year": "2025",
+      "genres": [
+        "Tragedy",
+        "BL",
+        "Drama",
+        "Mystery",
+        "Supernatural"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/d02/d027db5281332488232d1856b99cae0fa5e10281_600_800_123590.webp",
+      "link": "https://bato.si/title/205401-the-fallen-lamb-official-uncensored"
+    },
+    {
+      "title": "The Selfish Romance",
+      "author": "Gyogyo Park",
+      "year": "2024",
+      "genres": [
+        "Office Workers",
+        "Romance",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/e7d/e7dc08dd625e27bf7e27a76cc9c32fc316239083_759_1104_196033.jpeg",
+      "link": "https://bato.si/title/158009-the-selfish-romance"
+    },
+    {
+      "title": "Passion",
+      "author": "Yuuji",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "BL",
+        "Millitary"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/944/9447584d9a845f8fe099639066e85ef58f899bf4_600_878_95904.webp",
+      "link": "https://bato.si/title/177114-passion"
+    },
+    {
+      "title": "Inu Yashiki",
+      "author": "oku hiroya",
+      "year": "2014",
+      "genres": [
+        "Psychological Thriller"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/80f496eb-9ab2-4f9a-8e9b-1f6bd3bc8c03/2439adad-0366-40bb-8535-614c55790a08.jpg.512.jpg",
+      "link": "https://bato.si/title/23237-inu-yashiki"
+    },
+    {
+      "title": "Teach Me to Love",
+      "author": "Nanako Sakura",
+      "year": "2024",
+      "genres": [
+        "BL",
+        "Drama",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/mbim/26c/26cc8bce15a5f611cb9375af6a282d36bbe230aa_420_560_34220.webp",
+      "link": "https://bato.si/title/172952-teach-me-to-love"
+    },
+    {
+      "title": "Villain with a Crush",
+      "author": "Seyoon",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Supernatural",
+        "Crime"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/022/022caf6e2844a9922af0580dcdec57efacde9e5d_900_1230_103414.jpeg",
+      "link": "https://bato.si/title/109891-pure-villain"
+    },
+    {
+      "title": "A Guide to Proper Dating",
+      "author": "Namsoo",
+      "year": "2022",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/7ca/7ca16a31c5b9fcc11cac860a906f1047cae4e536_500_725_63120.jpeg",
+      "link": "https://bato.si/title/140300-romance-101"
+    },
+    {
+      "title": "Positively Yours",
+      "author": "Lee Jung",
+      "year": "2020",
+      "genres": [
+        "Shoujo",
+        "Romance",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/ed8/ed85e95fdff1fd7a0fb6793157299a0d9fd0a026_1090_1638_409639.jpg",
+      "link": "https://bato.si/title/79126-positively-yours"
+    },
+    {
+      "title": "Dear, X",
+      "author": "VANZIUN",
+      "year": "2020",
+      "genres": [
+        "Drama",
+        "Mystery",
+        "Thriller",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx132820-uH7liEZno0CE.jpg",
+      "link": "https://bato.si/title/141747-dear-x-official"
+    },
+    {
+      "title": "Delusion",
+      "author": "Hong Jac-Ga",
+      "year": "2019",
+      "genres": [
+        "Mystery",
+        "Horror",
+        "Vampires",
+        "Historical"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/e02/e027002973119d62ae2c18e3e98382a263974413_468_655_38537.jpeg",
+      "link": "https://bato.si/title/152486-delusion-official"
+    },
+    {
+      "title": "My Reason to Die  ",
+      "author": "Yuju",
+      "year": "",
+      "genres": [
+        "Psychological",
+        "Romance",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/0998984d-78ba-4c6d-b2b7-7c3bbe3a9759/e062d285-5d46-490e-b2b2-5467d24371bb.jpg.512.jpg",
+      "link": "https://bato.si/title/154360-my-reason-to-die-official"
+    },
+    {
+      "title": "",
+      "author": "",
+      "year": "",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "year": "",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "",
+      "link": ""
+    },
+    {
+      "title": "",
+      "author": "",
+      "year": "",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "",
+      "link": ""
     },
     {
       "title": "Ore no oniku-chan",
@@ -1995,7 +2956,7 @@
         "Slice of Life"
       ],
       "image": "https://n00.mbxma.org/thumb/W600/ampi/d4d/d4d1db7cbe4168ac3dec2e206d64a2a6eb2ad3b4_200_310_26465.jpg",
-      "link":"https://bato.to/title/30428-koi-to-wa-baka-de-aru-koto-da"
+      "link": "https://bato.to/title/30428-koi-to-wa-baka-de-aru-koto-da"
     },
     {
       "title": "My dear Nemesis",
