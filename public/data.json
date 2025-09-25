@@ -840,6 +840,18 @@
       "image": "https://m.media-amazon.com/images/M/MV5BNmI3YmVlOWUtZWE1OS00YmE0LWJkOTQtZDAzY2I2MzM0ZmJkXkEyXkFqcGc@._V1_.jpg"
     },
     {
+      "title": "American Horror Story",
+      "year": 2011,
+      "genres": [
+        "Horror",
+        "Drama",
+        "Thriller"
+      ],
+      "status": "watched",
+      "comment": "",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzJjZTg0ZmMtMTg0Ny00NzYxLWFjMWMtMWFiYmNkMTNjZGMyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
       "title": "W",
       "year": 2016,
       "genres": [
@@ -2890,7 +2902,100 @@
       "link": "https://bato.si/title/152486-delusion-official"
     },
     {
-      "title": "My Reason to Die  ",
+      "title": "Imperfect Cinderella story",
+      "author": "Jolim",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n21.mbqgu.org/media/mbim/770/77085e6936c4fb0b190ba99f85c9ed957ec85481_600_870_67704.webp",
+      "link": "https://xbato.com/series/190766"
+    },
+    {
+      "title": "Phantom Whispers",
+      "author": "Kim MOon-Kyung",
+      "year": "2024",
+      "genres": [
+        "Drama",
+        "Historical",
+        "Horror",
+        "Mystery",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k05.mbcej.org/media/mbim/22a/22a841697f40fcc5bd61a334e4e5715b27f134a8_600_750_51396.webp",
+      "link": "https://xbato.com/series/189949/ghostly-song-ezmanga"
+    },
+    {
+      "title": "Unlucky Mansion",
+      "author": "Yaggug",
+      "year": "2023",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n04.mbzcp.org/thumb/W600/ampi/5f6/5f64e315ab9ede7f56d9c7881d274f28296a6958_200_314_24266.jpg",
+      "link": "https://xbato.com/series/56736/unlucky-mansion"
+    },
+    {
+      "title": "Seasons of Blossom",
+      "author": "Hong Jac-Ga",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "School life",
+        "Slice of Life",
+        "Drama",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n06.mbhiz.org/thumb/W600/ampi/06e/06efe65d9746243d01ec5c8a91e5baa09fa8af4c_691_960_65617.jpg",
+      "link": "https://xbato.com/series/80786/seasons-of-blossom"
+    },
+    {
+      "title": "Degree of love",
+      "author": "Eu Aeng",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Slice of Life",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://preview.redd.it/recommendation-review-degree-of-love-v0-h7v2s5z0p2kf1.png?width=385&format=png&auto=webp&s=e821583f8d40008a1ea9e7c3c752b2d6fd0acba6",
+      "link": "https://www.webtoons.com/en/romance/degree-of-love/list?title_no=6316"
+    },
+    {
+      "title": "The Jinx's Lover",
+      "author": "Han Ji Hae",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Drama",
+        "Slice of Life",
+        "Fantasy",
+        "Shoujo"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k03.mbqtj.org/thumb/W600/ampi/ca0/ca0e5a2f6cdb2c728bded31498e7a7a870ba5012_536_475_21203.jpeg",
+      "link": "https://xbato.com/series/62622/the-jinx-s-lover"
+    },
+    {
+      "title": "My Reason to Die",
       "author": "Yuju",
       "year": "",
       "genres": [
@@ -2904,24 +3009,18 @@
       "link": "https://bato.si/title/154360-my-reason-to-die-official"
     },
     {
-      "title": "",
-      "author": "",
-      "year": "",
-      "genres": [],
+      "title": "Love Jinx",
+      "author": "Keon Han",
+      "year": "2020",
+      "genres": [
+        "BL",
+        "Romance",
+        "Comedy"
+      ],
       "status": "reading",
       "comment": "",
-      "image": "",
-      "link": ""
-    },
-    {
-      "title": "",
-      "author": "",
-      "year": "",
-      "genres": [],
-      "status": "reading",
-      "comment": "",
-      "image": "",
-      "link": ""
+      "image": "https://n00.mbqtj.org/thumb/W600/ampi/e0d/e0d89882b201d5a320f88c06563da4094b016b84_499_719_90066.jpeg",
+      "link": "https://xbato.com/series/83764/love-jinx"
     },
     {
       "title": "",
@@ -2972,6 +3071,158 @@
       "image": "https://bato.si/media/ampi/c85/c850f31c1944aa175885392d8450662139162c37_400_600_36153.jpeg",
       "link": "https://bato.si/title/89493-my-dear-nemesis-official"
     },
+    {
+      "title": "Just Listen to the Song",
+      "author": "Tatsuki Fujimoto",
+      "year": "2022",
+      "genres": [
+        "Music",
+        "Drama",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k08.mbmyj.org/thumb/W600/ampi/933/933ae2e397c2b3c27c03f66f7961fd35c90eb855_352_528_52789.jpeg",
+      "link": "https://battwo.com/series/107843"
+    },
+    {
+      "title": "Black Lagoon",
+      "author": "Rei Hiroe",
+      "year": "2002",
+      "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n08.mbzcp.org/thumb/W600/ampi/437/437584314d2ecccccbd42a75c3d1e0f5eb8f0fa8_1400_2009_740800.jpeg",
+      "link": "https://battwo.com/series/102410/black-lagoon-official"
+    },
+    {
+      "title": "Tashirokun Kimitteyatsuha",
+      "author": "Yamada",
+      "year": "2016",
+      "genres": [
+        "Comedy",
+        "Romance",
+        "BL",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n07.mbdny.org/media/mbim/ebd/ebdb385b6844a22203b1a07acef322576ceaeae5_600_855_602266.png",
+      "link": "https://battwo.com/series/116856/tashirokun-kimitteyatsuha-official"
+    },
+    {
+      "title": "Unsleep",
+      "author": "Hyeonoe",
+      "year": "2024",
+      "genres": [
+        "College Life",
+        "Drama",
+        "Romance",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n18.mbcej.org/media/mbim/f45/f4576e325682523472702d4934494fb5b10756b8_600_800_98944.webp",
+      "link": "https://mangatoto.com/title/176839-unsleep-official"
+    },
+    {
+      "title": "You get me going",
+      "author": "MOSCARETO",
+      "year": "2021",
+      "genres": [
+        "Office Workers",
+        "Romance",
+        "BL",
+        "Slice of Life",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n12.mbxma.org/thumb/W600/ampi/08e/08eca4fe35f65c5034fbf3c4171da864f1f100c2_720_960_463010.jpeg",
+      "link": ""
+    },
+    {
+      "title": "Hell and High water",
+      "author": "Charlie Cochet",
+      "year": "2017",
+      "genres": [
+        "Sci-Fi",
+        "BL",
+        "Mystery",
+        "Police",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k01.mbuul.org/thumb/W600/ampi/800/800a12721893afa4df9a52441758bf9ebeb13287_400_600_55486.jpeg",
+      "link": "https://mangatoto.com/title/143340-hell-high-water-official"
+    },
+    {
+      "title": "Protect your purity",
+      "author": "Lee Soonmu",
+      "year": "2024",
+      "genres": [
+        "College Life",
+        "Romance",
+        "BL",
+        "Drama",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n00.mbwnp.org/media/mbim/b69/b69a72dca302e00be6ccdb5870d8c9adfd70169e_600_812_45342.webp",
+      "link": "https://mangatoto.com/title/192681-protect-your-purity"
+    },
+    {
+      "title": "Sweet Spot",
+      "author": "Boyseason",
+      "year": "2018",
+      "genres": [
+        "Romance",
+        "BL",
+        "Sports"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n01.mbdny.org/thumb/W600/ampi/d74/d7475ddcd8cb12806afc82d84d425f8f2af85ad4_450_600_107480.jpeg",
+      "link": "https://mangatoto.com/title/105622-sweet-spot-official"
+    },
+    {
+      "title": "Tiger vs Tiger",
+      "author": "Hohosangbak",
+      "year": "2024",
+      "genres": ["Romance", "School life","Drama" ,"BL"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k04.mbqtj.org/media/mbim/23c/23c3d19938bd7ed769996800fdd087af84e7d271_600_594_54500.webp",
+      "link": "https://mangatoto.com/title/163279-tiger-vs-tiger-cupid-scans"
+    },
+    {
+      "title": "Love Shuttle",
+      "author": "Aeju",
+      "year": "2019",
+      "genres": ["Comedy", "Romance", "BL"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n00.mbcej.org/thumb/W600/ampi/11a/11a3797889997b60747bbb5d3fb21c159ac89c9d_350_481_34944.jpeg",
+      "link": "https://mangatoto.com/title/74300-love-shuttle"
+    },
+    {
+      "title": "Assorted Wildness",
+      "author": "Gyeja",
+      "year": "2019",
+      "genres": ["Comedy", "BL", "Action", "Drama"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n22.mbwbm.org/thumb/W600/ampi/e84/e84834a3705255727bec427aa96556bd6f8f3a71_400_600_58453.jpeg",
+      "link": "https://xbato.com/title/81927-assorted-wildness"
+    },
+  
     {
       "title": "",
       "author": "",
@@ -3562,6 +3813,21 @@
       "comment": "",
       "image": "https://n21.mbhiz.org/media/mbim/d03/d03fc3c8370d07150e108a28ee74648d34acad4d_600_942_94212.webp",
       "link": "https://bato.to/series/96923/namaikizakari-official"
+    },
+    {
+      "title": "Shounen no Abyss",
+      "author": "Hiroki Ugawa",
+      "year": "2014",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Tragedy",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n16.mbhiz.org/thumb/W600/ampi/04d/04d29e399dd3fee03e7bdfb4e432028db9855aa8_1390_1997_219046.jpg",
+      "link": "https://battwo.com/title/83502"
     }
   ],
   "socials": [
