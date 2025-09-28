@@ -102,7 +102,6 @@ export default function Animes() {
 
 
       <div className="flex flex-col items-center">
-        {/* Search */}
         <input
           type="text"
           placeholder="Search animes..."
@@ -112,8 +111,6 @@ export default function Animes() {
              focus:outline-none focus:ring-2 focus:ring-black focus:border-black
              placeholder-gray-500 placeholder:italic transition-all duration-200"
         />
-
-        {/* Genre buttons */}
         <div className="flex flex-wrap gap-2 mb-6 justify-center">
           {genres.map((genre) => (
             <button
@@ -130,14 +127,12 @@ export default function Animes() {
           ))}
         </div>
 
-        {/* Anime list */}
         <div className="flex flex-wrap gap-3 justify-center">
           {filteredAnimes.slice(0, visibleCount).map((anime, index) => (
             <ShowsCard key={index} show={anime} />
           ))}
         </div>
 
-        {/* Load more */}
         {visibleCount < filteredAnimes.length && (
           <button
             onClick={handleLoadMore}

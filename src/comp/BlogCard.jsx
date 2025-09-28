@@ -1,9 +1,7 @@
 import React from 'react'
 
 function BlogCard({ title, date, image, content }) {
-    console.log('Content:', content);
-
-    return (
+        return (
         <div className='w-100 bg-[#fff] border border-gray-400 py-4 px-5'>
             <div className='flex justify-between items-start gap-4'>
                 <div className='flex flex-col flex-1 min-w-0'>
