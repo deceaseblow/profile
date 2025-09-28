@@ -1,4 +1,91 @@
 {
+  "list": [
+    {
+      "name": "Combinatorics",
+      "exams": [
+        {
+          "name": "Midterm",
+          "date": "2023-10-15",
+          "status": "false"
+        },
+        {
+          "name": "Final",
+          "date": "2023-12-20",
+          "status": "false"
+        }
+      ]
+    },
+    {
+      "name": "Operating Systems and Architecture",
+      "exams": [
+        {
+          "name": "Midterm",
+          "date": "2025-10-03",
+          "status": "false"
+        },
+        {
+          "name": "Final",
+          "date": "2025-11-10",
+          "status": "false"
+        },
+        {
+          "name": "Project",
+          "date": "2025-11-30",
+          "status": "false"
+        },
+        {
+          "name": "Practical Works",
+          "works": [
+            {
+              "name": "Pw-1",
+              "due": "2025-10-05",
+              "status": "false"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cloud Computing",
+      "exams": [
+        {
+          "name": "Final",
+          "date": "2025-12-18",
+          "status": "false"
+        },
+        {
+          "name": "Practical Works",
+          "works":[
+            {
+              "name": "Pw-1",
+              "due": "2025-10-10",
+              "status": "done"
+            }
+          ]    
+        }
+      ]
+    },
+    {
+      "name": "Parallel Programming",
+      "exams": [
+        {
+          "name": "Final",
+          "date": "2025-09-26",
+          "status": "true"
+        },
+        {
+          "name": "Practical Works",
+          "works": [
+            {
+              "name": "PW-8",
+              "due": "2025-10-02",
+              "status": "false"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "links": [
     {
       "name": "pixels",
@@ -86,7 +173,6 @@
       "url": "https://beedge.neocities.org/"
     }
   ],
-  "list": [],
   "blogs": [
     {
       "id": 1,
@@ -3196,7 +3282,12 @@
       "title": "Tiger vs Tiger",
       "author": "Hohosangbak",
       "year": "2024",
-      "genres": ["Romance", "School life","Drama" ,"BL"],
+      "genres": [
+        "Romance",
+        "School life",
+        "Drama",
+        "BL"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://k04.mbqtj.org/media/mbim/23c/23c3d19938bd7ed769996800fdd087af84e7d271_600_594_54500.webp",
@@ -3206,7 +3297,11 @@
       "title": "Love Shuttle",
       "author": "Aeju",
       "year": "2019",
-      "genres": ["Comedy", "Romance", "BL"],
+      "genres": [
+        "Comedy",
+        "Romance",
+        "BL"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://n00.mbcej.org/thumb/W600/ampi/11a/11a3797889997b60747bbb5d3fb21c159ac89c9d_350_481_34944.jpeg",
@@ -3216,13 +3311,17 @@
       "title": "Assorted Wildness",
       "author": "Gyeja",
       "year": "2019",
-      "genres": ["Comedy", "BL", "Action", "Drama"],
+      "genres": [
+        "Comedy",
+        "BL",
+        "Action",
+        "Drama"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://n22.mbwbm.org/thumb/W600/ampi/e84/e84834a3705255727bec427aa96556bd6f8f3a71_400_600_58453.jpeg",
       "link": "https://xbato.com/title/81927-assorted-wildness"
     },
-  
     {
       "title": "",
       "author": "",

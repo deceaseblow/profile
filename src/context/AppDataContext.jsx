@@ -28,9 +28,10 @@ export const AppDataProvider = ({ children }) => {
   const getLinks = () => {
     return data?.links || [];
   };
+    const getSubjects = () => data?.list || [];
 
   return (
-    <AppDataContext.Provider value={{ data, loading, getLinks }}>
+    <AppDataContext.Provider value={{ data, loading, getLinks, getSubjects }}>
       {children}
     </AppDataContext.Provider>
   );
