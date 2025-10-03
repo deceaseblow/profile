@@ -5,12 +5,12 @@
       "exams": [
         {
           "name": "Midterm",
-          "date": "2023-10-15",
+          "date": "2025-10-15",
           "status": "false"
         },
         {
           "name": "Final",
-          "date": "2023-12-20",
+          "date": "2025-12-20",
           "status": "false"
         }
       ]
@@ -18,11 +18,6 @@
     {
       "name": "Operating Systems and Architecture",
       "exams": [
-        {
-          "name": "Midterm",
-          "date": "2025-10-03",
-          "status": "false"
-        },
         {
           "name": "Final",
           "date": "2025-11-10",
@@ -34,15 +29,11 @@
           "status": "false"
         },
         {
-          "name": "Practical Works",
-          "works": [
-            {
-              "name": "Pw-1",
-              "due": "2025-10-05",
-              "status": "false"
-            }
-          ]
+          "name":"PWS",
+          "date":"2025-10-23",
+          "status":"false"
         }
+        
       ]
     },
     {
@@ -57,32 +48,47 @@
           "name": "Practical Works",
           "works":[
             {
-              "name": "Pw-1",
-              "due": "2025-10-10",
-              "status": "done"
+            "name":"PW-1 and 2",
+            "due":"2025-10-05",
+            "status":"false"
+            },
+              {
+            "name":"PW-3",
+            "due":"2025-10-07",
+            "status":"false"
             }
           ]    
+        },
+        {
+          "name" : "Project",
+          "date" : "2025-11-25",
+          "status" : "false"
         }
       ]
     },
     {
-      "name": "Parallel Programming",
-      "exams": [
+      "name":"Mobile Development",
+      "exams":[
         {
-          "name": "Final",
-          "date": "2025-09-26",
-          "status": "true"
+          "name":"Final",
+          "date":"2025-12-22",
+          "status":"false"
         },
         {
-          "name": "Practical Works",
-          "works": [
-            {
-              "name": "PW-8",
-              "due": "2025-10-02",
-              "status": "false"
-            }
-          ]
+          "name":"Project",
+          "date":"2025-11-28",
+          "status":"false"
         }
+      ]
+    },
+    {
+      "name":" Software Certifictation",
+      "exams":[
+        {
+          "name":"Final",
+          "date":"2025-12-15",
+          "status":"false"
+        } 
       ]
     }
   ],
