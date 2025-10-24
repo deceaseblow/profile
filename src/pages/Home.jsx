@@ -22,7 +22,7 @@ export default function Home() {
         <div className="flex flex-col gap-5 px-5 md:pl-10 md:pt-10">
           <Socials />
           <ListKeep />
-          <ExamsTable />
+        {/*  <ExamsTable /> */} 
         </div>
       </div>
     </div>

@@ -1,97 +1,5 @@
 {
-  "list": [
-    {
-      "name": "Combinatorics",
-      "exams": [
-        {
-          "name": "Midterm",
-          "date": "2025-10-15",
-          "status": "false"
-        },
-        {
-          "name": "Final",
-          "date": "2025-12-20",
-          "status": "false"
-        }
-      ]
-    },
-    {
-      "name": "Operating Systems and Architecture",
-      "exams": [
-        {
-          "name": "Final",
-          "date": "2025-11-10",
-          "status": "false"
-        },
-        {
-          "name": "Project",
-          "date": "2025-11-30",
-          "status": "false"
-        },
-        {
-          "name":"PWS",
-          "date":"2025-10-23",
-          "status":"false"
-        }
-        
-      ]
-    },
-    {
-      "name": "Cloud Computing",
-      "exams": [
-        {
-          "name": "Final",
-          "date": "2025-12-18",
-          "status": "false"
-        },
-        {
-          "name": "Practical Works",
-          "works":[
-            {
-            "name":"PW-1 and 2",
-            "due":"2025-10-05",
-            "status":"false"
-            },
-              {
-            "name":"PW-3",
-            "due":"2025-10-07",
-            "status":"false"
-            }
-          ]    
-        },
-        {
-          "name" : "Project",
-          "date" : "2025-11-25",
-          "status" : "false"
-        }
-      ]
-    },
-    {
-      "name":"Mobile Development",
-      "exams":[
-        {
-          "name":"Final",
-          "date":"2025-12-22",
-          "status":"false"
-        },
-        {
-          "name":"Project",
-          "date":"2025-11-28",
-          "status":"false"
-        }
-      ]
-    },
-    {
-      "name":" Software Certifictation",
-      "exams":[
-        {
-          "name":"Final",
-          "date":"2025-12-15",
-          "status":"false"
-        } 
-      ]
-    }
-  ],
+  "list": [],
   "links": [
     {
       "name": "pixels",
@@ -3115,6 +3023,78 @@
       "link": "https://xbato.com/series/83764/love-jinx"
     },
     {
+      "title": "Dameo To Yaba Otoko",
+      "author": "Isaki Neokoo",
+      "year": "2022",
+      "genres": [
+        "BL",
+        "Romance",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n26.mbhiz.org/thumb/W600/ampi/f73/f73b264f4579ae22375cbd436ea0f30c5c44b3d6_1463_2048_621097.jpeg",
+      "link": "https://xbato.com/title/136828"
+    },
+    {
+      "title": "Indebted desires",
+      "author": "Wang tao",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Age gap",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n18.mbxma.org/thumb/W600/ampi/301/301cfd7d5de1c961136e99cb51097bde7df0e5c3_540_720_115608.jpeg",
+      "link": "https://xbato.com/title/160136-indebted-desires-official"
+    },
+    {
+      "title": "Backlight",
+      "author": "Gangdo",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "BL",
+        "Romance",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n09.mbimg.org/media/mbim/ec3/ec3322a87faf65d72afdcbbacb2273192e808943_600_800_100338.webp",
+      "link": "https://xbato.com/title/116400-backlight-official-uncensored"
+    },
+    {
+      "title": "Kami no Fune de Nemuru",
+      "author": "Teki yatsuda",
+      "year": "2023",
+      "genres": [
+        "Drama",
+        "Psychological",
+        "Thriller"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n19.mbopg.org/thumb/W600/ampi/242/2429382040cff879ec477df35356188c38e24eb3_675_959_159070.jpeg",
+      "link": "https://xbato.com/title/146381-kami-no-fune-de-nemuru"
+    },
+    {
+      "title": "Brutal",
+      "author": "Kei Koga",
+      "year": "2023",
+      "genres": [
+        "Action",
+        "Crime Drama",
+        "Horror",
+        "Mystery"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n27.mbcej.org/media/mbim/269/2696d69b9b3a5edf363c6f9b8e1804db8bc30dd3_600_853_66324.webp",
+      "link": "https://xbato.com/title/176063-brutal-official"
+    },
+    {
       "title": "",
       "author": "",
       "year": "",
@@ -3329,11 +3309,223 @@
       "link": "https://xbato.com/title/81927-assorted-wildness"
     },
     {
+      "title": "Bouken Erekitetou",
+      "author": "Tsuruta kenji",
+      "year": "2016",
+      "genres": [
+        "Adventure",
+        "Mystery",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n07.mbwww.org/thumb/W600/ampi/79c/79c1620655e3ea16f442917d320aeb27a6a765d9_200_310_26030.jpg",
+      "link": "https://xbato.com/title/7888"
+    },
+    {
+      "title": "It's Lonely at the Centre of the World",
+      "author": "Zoe Thorogood",
+      "year": "2022",
+      "genres": [
+        "Tragedy",
+        "Teen Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://readcomiconline.li/Uploads/Etc/11-20-2022/3800714307148.jpg",
+      "link": "https://readcomiconline.li/Comic/It-s-Lonely-at-the-Centre-of-the-World"
+    },
+    {
+      "title": "Children of the sea",
+      "author": "Igarashi Daisuke",
+      "year": "2005",
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Drama",
+        "Slice of Life",
+        "Mystery"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/5c961ee8-da09-4a14-9251-9d7bfbf27775/80a45f62-cdcc-48d0-ab87-bd853fcd23bc.jpg",
+      "link": "https://mangadex.org/title/5c961ee8-da09-4a14-9251-9d7bfbf27775/children-of-the-sea"
+    },
+    {
+      "title": "Omae ga Sekai wo Kowashitai nara",
+      "author": "Fujiwara Kaoru",
+      "year": "1999",
+      "genres": [
+        "Horror",
+        "Vampires",
+        "Historical"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/5005cf7f-36e2-4395-8b0e-21ce2aebd592/aa19dccb-7450-4071-add7-decdc1c25e47.jpg",
+      "link": "https://mangadex.org/title/5005cf7f-36e2-4395-8b0e-21ce2aebd592/omae-ga-sekai-wo-kowashitai-nara"
+    },
+    {
+      "title": "Watashitachi no Shiawase na Jikan",
+      "author": "Yumeka Sumomo, Gong Ji-Young",
+      "year": "2007",
+      "genres": [
+        "Psychological",
+        "Romance",
+        "Drama",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/46fb8129-fa17-4532-8686-0b9dbdde0236/25723fec-44c2-4d88-b58a-5c343fa66e1b.jpg",
+      "link": "https://mangadex.org/title/46fb8129-fa17-4532-8686-0b9dbdde0236/watashitachi-no-shiawase-na-jikan"
+    },
+    {
+      "title": "Ten Count",
+      "author": "Takarai Rihito",
+      "year": "2013",
+      "genres": [
+        "Drama",
+        "Romance",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/6f7aa486-580f-4733-b0f8-f2a7c78bead4/93c73eca-dc14-454d-91d6-9b1bef7fec86.jpg",
+      "link": "https://mangadex.org/title/6f7aa486-580f-4733-b0f8-f2a7c78bead4/ten-count"
+    },
+    {
+      "title": "Make a Pet Out of a Cactus",
+      "author": "Deulsum",
+      "year": "2020",
+      "genres": [
+        "Romance",
+        "BL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/e002d3bf-3166-472c-aaa3-35b013b51969/82eb1954-961e-402e-94ed-8a1264ea0d8c.jpg",
+      "link": "https://mangadex.org/title/e002d3bf-3166-472c-aaa3-35b013b51969/pet"
+    },
+    {
+      "title": "Promise Cinderella",
+      "author": "Tachibana Oreco",
+      "year": "2017",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Slice of Life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/655716aa-3e62-4121-abb3-ee1dede684ec/88d76fc1-1529-4a39-8f67-8d4a2e9d9450.jpg",
+      "link": "https://mangadex.org/title/655716aa-3e62-4121-abb3-ee1dede684ec/promise-cinderella"
+    },
+    {
+      "title": "Ikoku Nikki",
+      "author": "Foreign Country Diary",
+      "year": "2017",
+      "genres": [
+        "Psychological",
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/b8faa8ab-cb4e-416f-829d-d2a6042ba5ac/03231151-4595-444e-8dd7-1f6840caff0b.jpg",
+      "link": "https://mangadex.org/title/b8faa8ab-cb4e-416f-829d-d2a6042ba5ac/ikoku-nikki"
+    },
+    {
+      "title": "Hirunaka no Ryuusei",
+      "author": "Yamamori Mika",
+      "year": "2011",
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/7dab8f66-748e-4d83-a8a0-9f7440e254fc/1cd30eaa-87fc-4478-842f-a9af5c7a7b29.jpg",
+      "link": "https://mangadex.org/title/7dab8f66-748e-4d83-a8a0-9f7440e254fc/hirunaka-no-ryuusei"
+    },
+    {
+      "title": "Childhood friend complex",
+      "author": "Eunhi",
+      "year": "2024",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "https://preview.redd.it/childhood-friend-complex-has-returned-v0-pdfg43wwmnwf1.png?auto=webp&s=b33873cb40a67540b0c960fc29ee1374aaf46665",
+      "link": "https://www.webtoons.com/en/romance/childhood-friend-complex/list?title_no=6651"
+    },
+    {
+      "title": "Can I Borrow a Lighter?",
+      "author": "Hojin",
+      "year": "2024",
+      "genres": [
+        "Age gap",
+        "Romance",
+        "Drama",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n09.mbxma.org/media/mbim/e2e/e2e9e2dd5826c821a8a7928025c4115467f09cfa_600_875_41752.webp",
+      "link": "https://battwo.com/series/205654"
+    },
+    {
+      "title": "The Makeup Remover",
+      "author": "Lee Yone",
+      "year": "2023",
+      "genres": [
+        "Romance",
+        "Shoujo",
+        "Comedy"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n00.mbwbm.org/thumb/W600/ampi/3ea/3eac0d57252def9d0577f8f504bf34aef03aecef_345_500_68269.jpeg",
+      "link": "https://battwo.com/series/141778/the-makeup-remover"
+    },
+    {
+      "title": "Hand Jumper",
+      "author": "SLEEPACROSS",
+      "year": "2023",
+      "genres": ["Action"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://static.mfcdn.cc/3908/i/7/73/73999bcbd4a489f38048c97b674a61ca.jpg",
+      "link": "https://mangafire.to/manga/hand-jumperr.2pq62"
+    },
+    {
+      "title": "Virtues of the Villainess",
+      "author": "Bae Hee Jin, Koonac",
+      "year": "2020",
+      "genres": ["Romance", "Fantasy","Comedy"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://bato.si/media/ampi/b08/b08346371fa6f3b54f672069ef1da38600252e03_477_643_96926.jpeg",
+      "link": "https://mangadex.org/title/7b2fd6d4-1bf1-43d5-99bf-73fff7410bdc/virtues-of-the-villainess"
+    },
+    {
+      "title": "Muse on Fame",
+      "author": "SooJin",
+      "year": "2022",
+      "genres": ["Drama", "Romance", "Slice of Life"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k08.mbcej.org/media/mbim/bae/bae3bec8157f90c4efbebb8c1f5fc3aa31a75f3e_600_811_49382.webp",
+      "link": "https://battwo.com/series/181053"
+    },
+    {
       "title": "",
       "author": "",
       "year": "",
       "genres": [],
-      "status": "",
+      "status": "reading",
       "comment": "",
       "image": "",
       "link": ""
