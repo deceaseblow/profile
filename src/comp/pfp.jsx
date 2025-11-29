@@ -20,9 +20,6 @@ function Pfp() {
                 <div className="absolute left-1/2 bottom-[-10px] transform -translate-x-1/2 z-20"> <img src={smolBow} alt="" /></div>
                 <div className="absolute right-[0px] top-[15px] md:right-1 md:top-8 z-20"> <img src={gun} alt="" /></div>
                 <div className="absolute left-1/2 top-[-10px] transform -translate-x-1/2 z-20"> <img src={wings} alt="" className="w-10"/></div>
-
-
-
             </div>
         </div>
     );

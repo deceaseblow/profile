@@ -31,7 +31,6 @@ export default function MangaCard({ manga }) {
           className="w-full h-56 sm:h-64 md:h-80 object-cover bg-gray-900 filter grayscale hover:grayscale-0 transition duration-300"
         />
       </a>
-
       <div className="p-3 sm:p-4 flex flex-col gap-2 text-white">
         <h2 className="text-sm sm:text-base md:text-lg font-bold uppercase tracking-wide">
           {manga.title}
@@ -56,7 +55,7 @@ export default function MangaCard({ manga }) {
           Status : {" "}
           <span
             className={`font-semibold ${
-              manga.status === "completed" ? "text-[#fff]" : "text-red-400"
+              manga.status === "completed" ? "text-white" : "text-red-400"
             }`}
           >
             {manga.status || "Unknown"}
