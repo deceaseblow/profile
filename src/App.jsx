@@ -15,6 +15,7 @@ import Shows from "./pages/Shows";
 import Movies from "./pages/Movies";
 import DividerBot from "./comp/dividerBot";
 import Music from "./pages/Music";
+import MangaPage from "./pages/MangaPage";
 
 export default function App() {
   return (
@@ -78,6 +79,7 @@ export default function App() {
                     >
                       Anime
                     </NavLink>
+                    {/*
                     <NavLink
                       to="/games"
                       className={({ isActive }) =>
@@ -86,7 +88,7 @@ export default function App() {
                       }
                     >
                       Games
-                    </NavLink>
+                    </NavLink> */}
 
                     {/* 
                     <NavLink
@@ -143,12 +145,13 @@ export default function App() {
                 <Route path="/" element={<Home />} />
                 <Route path="/mangas" element={<MangaList />} />
                 <Route path="/animes" element={<Animes />} />
-                <Route path="/games" element={<Games />} />
+               {/* <Route path="/games" element={<Games />} /> */}
                 <Route path="/blogs" element={<Blogs />} />
                 <Route path="/gallery" element={<Gallery />} />
                 <Route path="/links" element={<Links />} />
                 <Route path="/shows" element={<Shows />} />
                 <Route path="/movies" element={<Movies />} />
+                 <Route path="/mangas/:name" element={<MangaPage />} />
             {/* <Route path="/music" element={<Music />} /> */} 
               </Routes>
             </MangaProvider>

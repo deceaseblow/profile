@@ -6,6 +6,8 @@ const fontStyle = {
 };
 function Blogs() {
     const { data, loading } = useAppData();
+        console.log("AppDataContext data:", data);   // <-- Check what is actually returned
+    console.log("Loading state:", loading);
 
     if (loading) return <p className="text-center text-lg mt-10">Loading blogs...</p>;
     if (!data?.blogs || data.blogs.length === 0) return <p className="text-center text-lg mt-10">No blogs found.</p>;
