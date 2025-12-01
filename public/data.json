@@ -1347,7 +1347,7 @@
       "comment": "",
       "image": "https://bato.si/media/mbim/1f5/1f56be1057ac2cd204865d7769f2ccfbe4ce1829_600_921_127730.webp",
       "link": "https://bato.si/title/77397-a-sign-of-affection-official"
-    },
+    },  
     {
       "title": "Choking on Love",
       "author": "Iwashita keiko",
@@ -3128,7 +3128,13 @@
       "title": "Swimming Lessons for a Mermaid",
       "author": "YONGCHAN",
       "year": "2019",
-      "genres": ["Fantasy", "Drama", "Romance", "Sports", "School life"],
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Romance",
+        "Sports",
+        "School life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/f79/f79186e22073ddcc9e56ea7131c66bd5543bbb76_847_847_159358.jpeg",
@@ -3138,7 +3144,12 @@
       "title": "Schoolmate Friend",
       "author": "yuyu",
       "year": "2021",
-      "genres": ["Romance", "School life", "Shoujo", "Comedy"],
+      "genres": [
+        "Romance",
+        "School life",
+        "Shoujo",
+        "Comedy"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/1c0/1c0570c96187e6b42a36672886ec6a5e13b66002_690_1000_316517.jpeg",
@@ -3148,7 +3159,12 @@
       "title": "How To Turn You Around",
       "author": "한성만",
       "year": "2022",
-      "genres": ["Shoujo", "Romance", "Drama", "School life"],
+      "genres": [
+        "Shoujo",
+        "Romance",
+        "Drama",
+        "School life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/78f/78fde8255011be1221951913c4e81f32de6755e6_600_869_100686.jpeg",
@@ -3589,6 +3605,91 @@
       "comment": "",
       "image": "https://k08.mbcej.org/media/mbim/bae/bae3bec8157f90c4efbebb8c1f5fc3aa31a75f3e_600_811_49382.webp",
       "link": "https://battwo.com/series/181053"
+    },
+    {
+      "title": "My Girlfriend is not here today",
+      "author": "Iwami Kiyoko",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Romance",
+        "GL",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/215e3ced-247e-4f34-8e1a-27b60ffef8ac/d3d46d35-0cfd-4798-9f2b-87b963cce019.jpg",
+      "link": "https://mangadex.org/title/215e3ced-247e-4f34-8e1a-27b60ffef8ac/kyou-wa-kanojo-ga-inai-kara"
+    },
+    {
+      "title": "Toumei na Usui Mizuiro ni",
+      "author": "Iwami Kiyoko",
+      "year": "2017",
+      "genres": [
+        "Drama",
+        "GL",
+        "Romance",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/babf0a8a-fd67-48c2-8a3c-a898e44ef411/baf58fec-7a48-424b-a6e1-c6be66f35891.png",
+      "link": "https://mangadex.org/title/babf0a8a-fd67-48c2-8a3c-a898e44ef411/toumei-na-usui-mizuiro-ni"
+    },
+    {
+      "title": "Brides of Iberis",
+      "author": "Akiyama Haru",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "Slice of Life",
+        "GL",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/13ecfc67-9481-4045-974a-292c81288077/f3ea7c6d-5808-4d53-9add-1498abb9ad45.jpg.512.jpg",
+      "link": "https://mangadex.org/title/13ecfc67-9481-4045-974a-292c81288077/brides-of-iberis"
+    },
+    {
+      "title": "Watashi Sekai o Kousei suru Chiri no You na Nani ka",
+      "author": "Amano Shuninta",
+      "year": "2011",
+      "genres": ["GL", "Romance", "Erotica","Slice of Life", "School life"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/be0f4d1c-17f9-4615-a1d5-996672cb3e80/bb2ad18b-93f1-4025-8806-dca6b3f1d27a.jpg",
+      "link": "https://mangadex.org/title/be0f4d1c-17f9-4615-a1d5-996672cb3e80/watashi-sekai-o-kousei-suru-chiri-no-you-na-nani-ka"
+    },
+    {
+      "title": "Luminous Blue",
+      "author": "Iwami Kiyoko",
+      "year": "2018",
+      "genres": ["GL", "Drama", "School life"],
+      "status": "completed",
+      "comment": "",
+      "image": "https://mangadex.org/covers/803d7f02-29e6-4992-877a-e099c4d16b14/8c797c91-982c-498d-968f-d73575e797d5.jpg",
+      "link": "https://mangadex.org/title/803d7f02-29e6-4992-877a-e099c4d16b14/luminous-blue"
+    },
+    {
+      "title": "Kimi ga Shinu made Koi wo Shitai",
+      "author": "Aono Nachi",
+      "year": "2018",
+      "genres": ["Action", "GL", "Fantasy", "Romance", "School life"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/0c44cf39-3d6c-4472-815b-9e163613cfe9/290934ac-d6d3-4b04-8c3a-6834c0b53d38.jpg",
+      "link": "https://mangadex.org/title/0c44cf39-3d6c-4472-815b-9e163613cfe9/kimi-ga-shinu-made-koi-wo-shitai"
+    },
+    {
+      "title": "Chasing Spica",
+      "author": "Orihi Chihiro",
+      "year": "2021",
+      "genres": ["GL", "School life", "Drama"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://mangadex.org/covers/ca174012-a49a-4f20-a6ba-cb9543f8cc1b/6f09ba45-ddbf-4834-9e33-b9a19cbee6ac.jpg",
+      "link": "https://mangadex.org/title/ca174012-a49a-4f20-a6ba-cb9543f8cc1b/chasing-spica"
     },
     {
       "title": "",

@@ -28,7 +28,7 @@ export default function MangaCard({ manga }) {
         <img
           src={manga.image && manga.image.trim() !== "" ? manga.image : fallbackImage}
           alt={manga.title}
-          className="w-full h-56 sm:h-64 md:h-80 object-cover bg-gray-900 filter grayscale hover:grayscale-0 transition duration-300"
+          className="w-full h-56 sm:h-64 md:h-80 object-cover bg-gray-900 filter transition duration-300" /* grayscale hover: grayscale-0 */
         />
       </a>
       <div className="p-3 sm:p-4 flex flex-col gap-2 text-white">
