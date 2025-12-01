@@ -69,7 +69,8 @@ export default function App() {
                       }
                     >
                       Manga
-                    </NavLink>
+                    </NavLink> 
+                    {/*
                     <NavLink
                       to="/animes"
                       className={({ isActive }) =>
@@ -79,7 +80,7 @@ export default function App() {
                     >
                       Anime
                     </NavLink>
-                    {/*
+                   
                     <NavLink
                       to="/games"
                       className={({ isActive }) =>

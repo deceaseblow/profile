@@ -56,7 +56,7 @@ export default function MangaPage() {
                         }}
                         className="w-fit mt-4 px-6 py-3 bg-black text-white rounded-lg hover:bg-gray-300 hover:text-black transition-colors cursor-pointer"
                     >
-                        Go and Read
+                      Read now  
                     </button>
 
                 </div>
