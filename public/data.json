@@ -3330,7 +3330,12 @@
       "title": "Bloom Into You",
       "author": "Natakani Nio",
       "year": "2015",
-      "genres": ["GL", "Romance", "Shoujo", "Drama"],
+      "genres": [
+        "GL",
+        "Romance",
+        "Shoujo",
+        "Drama"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/mbim/94c/94c09329f22ef8da3327a9f79cf2ac95a77d50ea_600_855_55978.webp  ",
@@ -3340,7 +3345,12 @@
       "title": "Fargtime",
       "author": "Sato",
       "year": "2019",
-      "genres": ["Comedy", "Drama", "GL", "Supernatural"],
+      "genres": [
+        "Comedy",
+        "Drama",
+        "GL",
+        "Supernatural"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/d77/d7705ac3f2f56ae5870a1ce0003e269c86c4cb60_282_396_84526.jpg",
@@ -3350,7 +3360,12 @@
       "title": "Sexual Education 120%",
       "author": "Takaki Kikiki",
       "year": "2020",
-      "genres": ["Shoujo", "Comedy", "School life", "Slice of Life"],
+      "genres": [
+        "Shoujo",
+        "Comedy",
+        "School life",
+        "Slice of Life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://bato.si/media/ampi/c6a/c6a0075fe43a669017f31d9cc4551fc50674aea7_1352_1920_241072.jpeg",
@@ -3897,6 +3912,158 @@
       "image": "https://mangadex.org/covers/ca174012-a49a-4f20-a6ba-cb9543f8cc1b/6f09ba45-ddbf-4834-9e33-b9a19cbee6ac.jpg",
       "link": "https://mangadex.org/title/ca174012-a49a-4f20-a6ba-cb9543f8cc1b/chasing-spica"
     },
+    {
+      "title": "Straight Girl Trap",
+      "author": "直女陷阱",
+      "year": "2020",
+      "genres": [
+        "GL",
+        "Comedy",
+        "Romance",
+        "Slice of Life",
+        "Office Workers"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n05.mbimg.org/thumb/W600/ampi/b88/b88e2247374904bf2bf38313681525f364d1bb4d_2479_3306_2363468.jpeg",
+      "link": "https://xbato.com/series/149028"
+    },
+    {
+      "title": "The Girl Through the Viewfinder",
+      "author": "Kabocha",
+      "year": "2019",
+      "genres": [
+        "GL",
+        "Romance",
+        "School life",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n18.mbdny.org/thumb/W600/ampi/71f/71fe8c569c0c0831640474faef4caa77c45156e3_512_730_110095.jpeg",
+      "link": "https://xbato.com/series/106517/the-girl-through-the-viewfinder"
+    },
+    {
+      "title": "Anemone is in Heat",
+      "author": "Sakuragi ren",
+      "year": "2020",
+      "genres": [
+        "GL",
+        "Romance",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k09.mbwbm.org/media/mbim/6d9/6d9afd6e0fbb14205dfa06a7b278559adcdff649_600_901_159722.webp",
+      "link": "https://mangadex.org/title/c5d731f9-c1cf-4a69-a797-cd9c2a58316b/the-anemone-feels-the-heat"
+    },
+    {
+      "title": "Touko-san wa Kaji ga Dekinai",
+      "author": "Harukawa Haru",
+      "year": "2019",
+      "genres": [
+        "Romance",
+        "GL"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n10.mbwnp.org/thumb/W600/ampi/bf6/bf67c54d79922f6e20c48e987703433f9694c57e_200_310_21718.jpg",
+      "link": "https://mangadex.org/title/7d8abcfa-697d-4d34-98e3-986671c8a936/touko-san-wa-kaji-ga-dekinai"
+    },
+    {
+      "title": "Model-chan and Plain Manager",
+      "author": "Taneko",
+      "year": "2023",
+      "genres": [
+        "GL",
+        "Romance"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://k01.mbtba.org/media/mbim/8fd/8fd95e02574059eff83d4970fa388c976450eac9_600_800_54346.webp",
+      "link": "https://mangadex.org/title/f6861bd3-705a-4554-8bcf-b397bab485c0/model-chan-and-plain-manager"
+    },
+    {
+      "title": "If It Rains Next Week",
+      "author": "Shinoa",
+      "year": "2018",
+      "genres": [],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n24.mbqgu.org/thumb/W600/ampi/ad9/ad93e55b69e304cab0a1b96e2742a2acfd62302e_2000_2840_344652.jpeg",
+      "link": "https://mangadex.org/title/ec2fbac7-e0c2-4b2a-adbc-bd79ca6ed37f/if-it-rains-next-week"
+    },
+    {
+      "title": "Almost Friends",
+      "author": "Huang Erye",
+      "year": "2021",
+      "genres": [
+        "Drama",
+        "GL",
+        "School life",
+        "Drama"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n25.mbeaj.org/media/mbim/f7a/f7aa6c6c81ad046ea7450cd32770504f78103a2d_600_796_83892.webp",
+      "link": "https://mangadex.org/title/f5e75860-1297-403d-b740-3209aab3c492/almost-friends"
+    },
+    {
+      "title": "Girl Friends",
+      "author": "Morinaga Milk",
+      "year": "2006",
+      "genres": [
+        "GL",
+        "Slice of Life",
+        "Romance",
+        "School life"
+      ],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n22.mbhiz.org/thumb/W600/ampi/77b/77bdef5855ce9c9fd0cb861c514ac8cdf6e0bf23_225_350_18994.jpg",
+      "link": "https://mangadex.org/title/5f26196b-c0d8-4198-b141-2cbacd2b5ce7/girl-friends"
+    },
+    {
+      "title": "TANKOBU",
+      "author": "Kuwabara Tamotsu",
+      "year": "2018",
+      "genres": ["GL", "Romance", "Slice of Life"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n15.mbuul.org/thumb/W600/ampi/202/202f440cd260e9ab31f695a25ffa586811db7c32_200_275_19970.jpg",
+      "link": "https://mangadex.org/title/1e1d26fb-b131-4816-8e2a-e08a8d3ab26b/tankobu"
+    },
+    {
+      "title": "Anaerobic Love",
+      "author": "Kodama Naoko",
+      "year": "2018",
+      "genres": ["Drama", "GL", "School life", "Comedy", "Romance"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://n19.mbuul.org/media/mbim/ff6/ff63dcb6d2a61f10d37b1a38cb58c6bac9318546_600_853_134066.webp",
+      "link": "https://mangadex.org/title/f6fe221d-5e3c-488f-99c8-e18f5444b253/oya-ga-urusai-node-kouhaito-gisou-kekkon-shitemita"
+    },
+    {
+      "title": "Love and Hate and Love",
+      "author": "Amezawa Koma",
+      "year": "2019",
+      "genres": ["GL", "Psychological"  ,"Drama", "Slice of Life"],
+      "status": "reading",
+      "comment": "",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIKPyuxkbJdlIQVZjf3wK2xBpI9ZyfEz85A&s",
+      "link": "https://mangadex.org/title/84570193-ca50-412f-b37b-cd6912240d64/love-and-hate-and-love"
+    },
+    {
+      "title": "define",
+      "author": "Tsutsui Itsuki",
+      "year": "2017",
+      "genres": ["Oneshot", "Comedy", "GL", "Romance", "Psychological"],
+      "status": "reading",
+      "comment": "",
+      "image": "",
+      "link": "https://mangadex.org/title/1b435873-0390-4dc4-9f58-f6627b53ef92/define"
+    },
+
     {
       "title": "",
       "author": "",
