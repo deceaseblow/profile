@@ -3819,7 +3819,7 @@
       ],
       "status": "reading",
       "comment": "",
-      "image": "https://mangadex.org/covers/215e3ced-247e-4f34-8e1a-27b60ffef8ac/d3d46d35-0cfd-4798-9f2b-87b963cce019.jpg",
+      "image": "https://bato.si/media/mbim/98a/98a4cc2af2ef9874166033ecd6516e2f94b28e97_600_843_117754.webp",
       "link": "https://mangadex.org/title/215e3ced-247e-4f34-8e1a-27b60ffef8ac/kyou-wa-kanojo-ga-inai-kara"
     },
     {
@@ -3834,7 +3834,7 @@
       ],
       "status": "reading",
       "comment": "",
-      "image": "https://mangadex.org/covers/babf0a8a-fd67-48c2-8a3c-a898e44ef411/baf58fec-7a48-424b-a6e1-c6be66f35891.png",
+      "image": "https://bato.si/media/mbim/b54/b54ab67d2bdbac3abb7e79176ee89c249a97cd57_600_843_138036.webp",
       "link": "https://mangadex.org/title/babf0a8a-fd67-48c2-8a3c-a898e44ef411/toumei-na-usui-mizuiro-ni"
     },
     {
@@ -3849,7 +3849,7 @@
       ],
       "status": "reading",
       "comment": "",
-      "image": "https://mangadex.org/covers/13ecfc67-9481-4045-974a-292c81288077/f3ea7c6d-5808-4d53-9add-1498abb9ad45.jpg.512.jpg",
+      "image": "https://bato.si/media/ampi/a20/a2023be751abd4c943cca2854d2039d0ca758ecd_1354_1920_467451.jpeg",
       "link": "https://mangadex.org/title/13ecfc67-9481-4045-974a-292c81288077/brides-of-iberis"
     },
     {
@@ -3865,7 +3865,7 @@
       ],
       "status": "reading",
       "comment": "",
-      "image": "https://mangadex.org/covers/be0f4d1c-17f9-4615-a1d5-996672cb3e80/bb2ad18b-93f1-4025-8806-dca6b3f1d27a.jpg",
+      "image": "https://bato.si/media/ampi/fa1/fa158c32f7c4606121f4459d7c07e5a5a75b5ab1_198_297_12558.jpg",
       "link": "https://mangadex.org/title/be0f4d1c-17f9-4615-a1d5-996672cb3e80/watashi-sekai-o-kousei-suru-chiri-no-you-na-nani-ka"
     },
     {
@@ -3879,7 +3879,7 @@
       ],
       "status": "completed",
       "comment": "",
-      "image": "https://mangadex.org/covers/803d7f02-29e6-4992-877a-e099c4d16b14/8c797c91-982c-498d-968f-d73575e797d5.jpg",
+      "image": "https://bato.si/media/ampi/d8a/d8aefb0f42b318291ec09198b9d45e3f5f9f7195_200_284_29781.jpg",
       "link": "https://mangadex.org/title/803d7f02-29e6-4992-877a-e099c4d16b14/luminous-blue"
     },
     {
@@ -3895,7 +3895,7 @@
       ],
       "status": "reading",
       "comment": "",
-      "image": "https://mangadex.org/covers/0c44cf39-3d6c-4472-815b-9e163613cfe9/290934ac-d6d3-4b04-8c3a-6834c0b53d38.jpg",
+      "image": "https://bato.si/media/ampi/888/88832930218ef5ac202e0e0a51133142a123020d_465_624_91422.jpeg",
       "link": "https://mangadex.org/title/0c44cf39-3d6c-4472-815b-9e163613cfe9/kimi-ga-shinu-made-koi-wo-shitai"
     },
     {
@@ -3909,7 +3909,7 @@
       ],
       "status": "reading",
       "comment": "",
-      "image": "https://mangadex.org/covers/ca174012-a49a-4f20-a6ba-cb9543f8cc1b/6f09ba45-ddbf-4834-9e33-b9a19cbee6ac.jpg",
+      "image": "https://bato.si/media/ampi/8d1/8d1e7ab1504c00410fcddeb293e5a130955faa85_1115_1375_598706.jpeg",
       "link": "https://mangadex.org/title/ca174012-a49a-4f20-a6ba-cb9543f8cc1b/chasing-spica"
     },
     {
@@ -4027,7 +4027,11 @@
       "title": "TANKOBU",
       "author": "Kuwabara Tamotsu",
       "year": "2018",
-      "genres": ["GL", "Romance", "Slice of Life"],
+      "genres": [
+        "GL",
+        "Romance",
+        "Slice of Life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://n15.mbuul.org/thumb/W600/ampi/202/202f440cd260e9ab31f695a25ffa586811db7c32_200_275_19970.jpg",
@@ -4037,7 +4041,13 @@
       "title": "Anaerobic Love",
       "author": "Kodama Naoko",
       "year": "2018",
-      "genres": ["Drama", "GL", "School life", "Comedy", "Romance"],
+      "genres": [
+        "Drama",
+        "GL",
+        "School life",
+        "Comedy",
+        "Romance"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://n19.mbuul.org/media/mbim/ff6/ff63dcb6d2a61f10d37b1a38cb58c6bac9318546_600_853_134066.webp",
@@ -4047,7 +4057,12 @@
       "title": "Love and Hate and Love",
       "author": "Amezawa Koma",
       "year": "2019",
-      "genres": ["GL", "Psychological"  ,"Drama", "Slice of Life"],
+      "genres": [
+        "GL",
+        "Psychological",
+        "Drama",
+        "Slice of Life"
+      ],
       "status": "reading",
       "comment": "",
       "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgIKPyuxkbJdlIQVZjf3wK2xBpI9ZyfEz85A&s",
@@ -4057,13 +4072,18 @@
       "title": "define",
       "author": "Tsutsui Itsuki",
       "year": "2017",
-      "genres": ["Oneshot", "Comedy", "GL", "Romance", "Psychological"],
+      "genres": [
+        "Oneshot",
+        "Comedy",
+        "GL",
+        "Romance",
+        "Psychological"
+      ],
       "status": "reading",
       "comment": "",
       "image": "",
       "link": "https://mangadex.org/title/1b435873-0390-4dc4-9f58-f6627b53ef92/define"
     },
-
     {
       "title": "",
       "author": "",
